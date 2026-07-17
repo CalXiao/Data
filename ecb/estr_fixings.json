@@ -1,0 +1,10436 @@
+{
+ "asof": "2026-07-15",
+ "generated_at": "2026-07-16T15:44:09Z",
+ "source": "ECB Data Portal EST (rate B.EU000A2X2A25.WT; index B.EU000A2QQF16.CI: 0 official, rest self-compounded ACT/360)",
+ "index_base_date": "2019-10-01",
+ "fixings": [
+  {
+   "date": "2019-10-01",
+   "rate": -0.549,
+   "index": 1.0,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-10-02",
+   "rate": -0.551,
+   "index": 0.99998475,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-10-03",
+   "rate": -0.555,
+   "index": 0.999969444678,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-10-04",
+   "rate": -0.553,
+   "index": 0.999954028482,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-10-07",
+   "rate": -0.554,
+   "index": 0.999907947267,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-10-08",
+   "rate": -0.552,
+   "index": 0.999892559795,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-10-09",
+   "rate": -0.552,
+   "index": 0.999877228109,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-10-10",
+   "rate": -0.552,
+   "index": 0.999861896658,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-10-11",
+   "rate": -0.55,
+   "index": 0.999846565443,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-10-14",
+   "rate": -0.549,
+   "index": 0.999800739142,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-10-15",
+   "rate": -0.551,
+   "index": 0.99978549218,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-10-16",
+   "rate": -0.548,
+   "index": 0.999770189908,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-10-17",
+   "rate": -0.548,
+   "index": 0.999754971184,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-10-18",
+   "rate": -0.547,
+   "index": 0.999739752692,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-10-21",
+   "rate": -0.549,
+   "index": 0.999694181221,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-10-22",
+   "rate": -0.548,
+   "index": 0.999678935885,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-10-23",
+   "rate": -0.547,
+   "index": 0.99966371855,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-10-24",
+   "rate": -0.548,
+   "index": 0.999648529215,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-10-25",
+   "rate": -0.548,
+   "index": 0.999633312343,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-10-28",
+   "rate": -0.548,
+   "index": 0.999587662422,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-10-29",
+   "rate": -0.545,
+   "index": 0.999572446476,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-10-30",
+   "rate": -0.545,
+   "index": 0.99955731406,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-10-31",
+   "rate": -0.543,
+   "index": 0.999542181873,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-11-01",
+   "rate": -0.549,
+   "index": 0.999527105445,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-11-04",
+   "rate": -0.536,
+   "index": 0.99948137708,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-11-05",
+   "rate": -0.541,
+   "index": 0.999466495913,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-11-06",
+   "rate": -0.539,
+   "index": 0.999451476153,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-11-07",
+   "rate": -0.537,
+   "index": 0.999436512143,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-11-08",
+   "rate": -0.54,
+   "index": 0.999421603882,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-11-11",
+   "rate": -0.541,
+   "index": 0.99937662991,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-11-12",
+   "rate": -0.537,
+   "index": 0.9993616115,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-11-13",
+   "rate": -0.531,
+   "index": 0.999346704356,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-11-14",
+   "rate": -0.536,
+   "index": 0.999331963992,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-11-15",
+   "rate": -0.541,
+   "index": 0.999317085049,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-11-18",
+   "rate": -0.541,
+   "index": 0.999272032504,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-11-19",
+   "rate": -0.542,
+   "index": 0.999257015666,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-11-20",
+   "rate": -0.511,
+   "index": 0.999241971296,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-11-21",
+   "rate": -0.542,
+   "index": 0.999227787612,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-11-22",
+   "rate": -0.536,
+   "index": 0.999212743682,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-11-25",
+   "rate": -0.533,
+   "index": 0.99916811218,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-11-26",
+   "rate": -0.533,
+   "index": 0.999153318941,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-11-27",
+   "rate": -0.533,
+   "index": 0.999138525921,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-11-28",
+   "rate": -0.531,
+   "index": 0.99912373312,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-11-29",
+   "rate": -0.532,
+   "index": 0.999108996045,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-12-02",
+   "rate": -0.541,
+   "index": 0.999064702212,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-12-03",
+   "rate": -0.539,
+   "index": 0.99904968849,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-12-04",
+   "rate": -0.54,
+   "index": 0.999034730496,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-12-05",
+   "rate": -0.54,
+   "index": 0.999019744975,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-12-06",
+   "rate": -0.541,
+   "index": 0.999004759679,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-12-09",
+   "rate": -0.541,
+   "index": 0.998959721214,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-12-10",
+   "rate": -0.544,
+   "index": 0.99894470907,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-12-11",
+   "rate": -0.544,
+   "index": 0.998929613905,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-12-12",
+   "rate": -0.544,
+   "index": 0.998914518969,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-12-13",
+   "rate": -0.543,
+   "index": 0.998899424261,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-12-16",
+   "rate": -0.543,
+   "index": 0.998854224062,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-12-17",
+   "rate": -0.536,
+   "index": 0.99883915801,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-12-18",
+   "rate": -0.54,
+   "index": 0.998824286405,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-12-19",
+   "rate": -0.54,
+   "index": 0.998809304041,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-12-20",
+   "rate": -0.54,
+   "index": 0.998794321901,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-12-23",
+   "rate": -0.545,
+   "index": 0.998749376157,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-12-24",
+   "rate": -0.549,
+   "index": 0.998734256201,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-12-27",
+   "rate": -0.542,
+   "index": 0.998688564109,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-12-30",
+   "rate": -0.541,
+   "index": 0.998643456675,
+   "index_synthetic": true
+  },
+  {
+   "date": "2019-12-31",
+   "rate": -0.531,
+   "index": 0.998628449283,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-01-02",
+   "rate": -0.539,
+   "index": 0.998598989744,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-01-03",
+   "rate": -0.537,
+   "index": 0.998584038498,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-01-06",
+   "rate": -0.539,
+   "index": 0.998539351862,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-01-07",
+   "rate": -0.54,
+   "index": 0.998524401509,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-01-08",
+   "rate": -0.536,
+   "index": 0.998509423643,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-01-09",
+   "rate": -0.539,
+   "index": 0.998494556947,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-01-10",
+   "rate": -0.538,
+   "index": 0.998479607265,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-01-13",
+   "rate": -0.537,
+   "index": 0.998434842096,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-01-14",
+   "rate": -0.538,
+   "index": 0.998419948776,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-01-15",
+   "rate": -0.538,
+   "index": 0.998405027945,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-01-16",
+   "rate": -0.536,
+   "index": 0.998390107336,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-01-17",
+   "rate": -0.537,
+   "index": 0.998375242417,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-01-20",
+   "rate": -0.538,
+   "index": 0.998330565125,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-01-21",
+   "rate": -0.535,
+   "index": 0.998315645629,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-01-22",
+   "rate": -0.536,
+   "index": 0.998300809549,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-01-23",
+   "rate": -0.537,
+   "index": 0.99828594596,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-01-24",
+   "rate": -0.537,
+   "index": 0.998271054861,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-01-27",
+   "rate": -0.538,
+   "index": 0.998226382231,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-01-28",
+   "rate": -0.536,
+   "index": 0.998211464293,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-01-29",
+   "rate": -0.54,
+   "index": 0.998196602033,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-01-30",
+   "rate": -0.539,
+   "index": 0.998181629084,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-01-31",
+   "rate": -0.539,
+   "index": 0.998166684087,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-02-03",
+   "rate": -0.537,
+   "index": 0.998121849767,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-02-04",
+   "rate": -0.536,
+   "index": 0.998106961116,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-02-05",
+   "rate": -0.536,
+   "index": 0.998092100412,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-02-06",
+   "rate": -0.535,
+   "index": 0.99807723993,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-02-07",
+   "rate": -0.537,
+   "index": 0.998062407393,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-02-10",
+   "rate": -0.537,
+   "index": 0.9980177441,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-02-11",
+   "rate": -0.541,
+   "index": 0.998002857002,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-02-12",
+   "rate": -0.541,
+   "index": 0.997987859237,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-02-13",
+   "rate": -0.54,
+   "index": 0.997972861697,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-02-14",
+   "rate": -0.538,
+   "index": 0.997957892104,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-02-17",
+   "rate": -0.541,
+   "index": 0.997913150325,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-02-18",
+   "rate": -0.536,
+   "index": 0.997898153908,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-02-19",
+   "rate": -0.538,
+   "index": 0.997883296314,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-02-20",
+   "rate": -0.538,
+   "index": 0.997868383502,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-02-21",
+   "rate": -0.539,
+   "index": 0.997853470913,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-02-24",
+   "rate": -0.54,
+   "index": 0.997808650662,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-02-25",
+   "rate": -0.539,
+   "index": 0.997793683532,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-02-26",
+   "rate": -0.539,
+   "index": 0.997778744343,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-02-27",
+   "rate": -0.538,
+   "index": 0.997763805378,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-02-28",
+   "rate": -0.54,
+   "index": 0.997748894352,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-03-02",
+   "rate": -0.542,
+   "index": 0.997703995652,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-03-03",
+   "rate": -0.542,
+   "index": 0.997688974664,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-03-04",
+   "rate": -0.541,
+   "index": 0.997673953902,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-03-05",
+   "rate": -0.54,
+   "index": 0.99765896108,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-03-06",
+   "rate": -0.541,
+   "index": 0.997643996196,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-03-09",
+   "rate": -0.539,
+   "index": 0.997599019079,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-03-10",
+   "rate": -0.541,
+   "index": 0.997584082805,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-03-11",
+   "rate": -0.543,
+   "index": 0.997569091333,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-03-12",
+   "rate": -0.54,
+   "index": 0.997554044665,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-03-13",
+   "rate": -0.541,
+   "index": 0.997539081355,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-03-16",
+   "rate": -0.536,
+   "index": 0.997494108968,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-03-17",
+   "rate": -0.531,
+   "index": 0.997479257389,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-03-18",
+   "rate": -0.529,
+   "index": 0.99746454457,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-03-19",
+   "rate": -0.526,
+   "index": 0.997449887383,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-03-20",
+   "rate": -0.524,
+   "index": 0.997435313531,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-03-23",
+   "rate": -0.525,
+   "index": 0.997391758856,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-03-24",
+   "rate": -0.527,
+   "index": 0.99737721356,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-03-25",
+   "rate": -0.527,
+   "index": 0.997362613065,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-03-26",
+   "rate": -0.529,
+   "index": 0.997348012785,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-03-27",
+   "rate": -0.53,
+   "index": 0.99733335731,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-03-30",
+   "rate": -0.528,
+   "index": 0.99728930842,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-03-31",
+   "rate": -0.522,
+   "index": 0.99727468151,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-04-01",
+   "rate": -0.527,
+   "index": 0.997260221027,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-04-02",
+   "rate": -0.534,
+   "index": 0.997245622246,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-04-03",
+   "rate": -0.539,
+   "index": 0.997230829769,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-04-06",
+   "rate": -0.533,
+   "index": 0.997186037484,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-04-07",
+   "rate": -0.533,
+   "index": 0.997171273591,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-04-08",
+   "rate": -0.535,
+   "index": 0.997156509916,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-04-09",
+   "rate": -0.536,
+   "index": 0.997141691063,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-04-14",
+   "rate": -0.534,
+   "index": 0.997067459403,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-04-15",
+   "rate": -0.535,
+   "index": 0.997052669569,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-04-16",
+   "rate": -0.534,
+   "index": 0.997037852259,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-04-17",
+   "rate": -0.538,
+   "index": 0.997023062864,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-04-20",
+   "rate": -0.541,
+   "index": 0.996978362997,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-04-21",
+   "rate": -0.541,
+   "index": 0.996963380627,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-04-22",
+   "rate": -0.539,
+   "index": 0.996948398483,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-04-23",
+   "rate": -0.539,
+   "index": 0.99693347195,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-04-24",
+   "rate": -0.539,
+   "index": 0.996918545641,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-04-27",
+   "rate": -0.539,
+   "index": 0.996873767383,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-04-28",
+   "rate": -0.541,
+   "index": 0.996858841967,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-04-29",
+   "rate": -0.543,
+   "index": 0.996843861394,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-04-30",
+   "rate": -0.531,
+   "index": 0.996828825666,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-05-04",
+   "rate": -0.543,
+   "index": 0.996770012765,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-05-05",
+   "rate": -0.539,
+   "index": 0.996754978151,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-05-06",
+   "rate": -0.542,
+   "index": 0.996740054514,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-05-07",
+   "rate": -0.541,
+   "index": 0.996725048038,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-05-08",
+   "rate": -0.541,
+   "index": 0.996710069476,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-05-11",
+   "rate": -0.544,
+   "index": 0.996665134464,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-05-12",
+   "rate": -0.543,
+   "index": 0.996650073746,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-05-13",
+   "rate": -0.542,
+   "index": 0.996635040941,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-05-14",
+   "rate": -0.541,
+   "index": 0.996620036047,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-05-15",
+   "rate": -0.543,
+   "index": 0.996605059062,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-05-18",
+   "rate": -0.542,
+   "index": 0.996559962683,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-05-19",
+   "rate": -0.542,
+   "index": 0.996544958919,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-05-20",
+   "rate": -0.545,
+   "index": 0.996529955381,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-05-21",
+   "rate": -0.545,
+   "index": 0.996514869025,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-05-22",
+   "rate": -0.539,
+   "index": 0.996499782897,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-05-25",
+   "rate": -0.54,
+   "index": 0.996455023449,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-05-26",
+   "rate": -0.541,
+   "index": 0.996440076623,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-05-27",
+   "rate": -0.541,
+   "index": 0.996425102343,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-05-28",
+   "rate": -0.541,
+   "index": 0.996410128288,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-05-29",
+   "rate": -0.54,
+   "index": 0.996395154458,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-06-01",
+   "rate": -0.546,
+   "index": 0.996350316676,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-06-02",
+   "rate": -0.542,
+   "index": 0.996335205363,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-06-03",
+   "rate": -0.543,
+   "index": 0.996320204983,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-06-04",
+   "rate": -0.545,
+   "index": 0.996305177153,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-06-05",
+   "rate": -0.544,
+   "index": 0.9962900942,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-06-08",
+   "rate": -0.547,
+   "index": 0.996244929049,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-06-09",
+   "rate": -0.542,
+   "index": 0.996229791661,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-06-10",
+   "rate": -0.548,
+   "index": 0.996214792868,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-06-11",
+   "rate": -0.547,
+   "index": 0.996199628265,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-06-12",
+   "rate": -0.546,
+   "index": 0.996184491565,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-06-15",
+   "rate": -0.547,
+   "index": 0.996139165171,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-06-16",
+   "rate": -0.546,
+   "index": 0.996124029389,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-06-17",
+   "rate": -0.544,
+   "index": 0.996108921508,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-06-18",
+   "rate": -0.544,
+   "index": 0.996093869196,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-06-19",
+   "rate": -0.546,
+   "index": 0.996078817111,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-06-22",
+   "rate": -0.545,
+   "index": 0.996033495524,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-06-23",
+   "rate": -0.544,
+   "index": 0.996018416684,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-06-24",
+   "rate": -0.546,
+   "index": 0.996003365739,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-06-25",
+   "rate": -0.547,
+   "index": 0.995988259688,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-06-26",
+   "rate": -0.547,
+   "index": 0.9959731262,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-06-29",
+   "rate": -0.545,
+   "index": 0.995927726425,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-06-30",
+   "rate": -0.555,
+   "index": 0.995912649185,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-07-01",
+   "rate": -0.548,
+   "index": 0.995897295532,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-07-02",
+   "rate": -0.548,
+   "index": 0.995882135762,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-07-03",
+   "rate": -0.549,
+   "index": 0.995866976223,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-07-06",
+   "rate": -0.55,
+   "index": 0.995821415309,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-07-07",
+   "rate": -0.55,
+   "index": 0.995806201371,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-07-08",
+   "rate": -0.549,
+   "index": 0.995790987665,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-07-09",
+   "rate": -0.549,
+   "index": 0.995775801852,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-07-10",
+   "rate": -0.549,
+   "index": 0.995760616271,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-07-13",
+   "rate": -0.552,
+   "index": 0.995715060223,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-07-14",
+   "rate": -0.551,
+   "index": 0.995699792592,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-07-15",
+   "rate": -0.551,
+   "index": 0.995684552854,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-07-16",
+   "rate": -0.541,
+   "index": 0.995669313348,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-07-17",
+   "rate": -0.551,
+   "index": 0.995654350651,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-07-20",
+   "rate": -0.551,
+   "index": 0.995608633522,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-07-21",
+   "rate": -0.549,
+   "index": 0.995593395179,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-07-22",
+   "rate": -0.55,
+   "index": 0.99557821238,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-07-23",
+   "rate": -0.55,
+   "index": 0.995563002157,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-07-24",
+   "rate": -0.551,
+   "index": 0.995547792167,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-07-27",
+   "rate": -0.552,
+   "index": 0.995502079931,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-07-28",
+   "rate": -0.551,
+   "index": 0.995486815565,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-07-29",
+   "rate": -0.553,
+   "index": 0.995471579087,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-07-30",
+   "rate": -0.552,
+   "index": 0.995456287537,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-07-31",
+   "rate": -0.55,
+   "index": 0.995441023874,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-08-03",
+   "rate": -0.552,
+   "index": 0.995395399494,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-08-04",
+   "rate": -0.551,
+   "index": 0.995380136764,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-08-05",
+   "rate": -0.552,
+   "index": 0.995364901918,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-08-06",
+   "rate": -0.553,
+   "index": 0.995349639656,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-08-07",
+   "rate": -0.553,
+   "index": 0.99533434998,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-08-10",
+   "rate": -0.554,
+   "index": 0.995288481655,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-08-11",
+   "rate": -0.552,
+   "index": 0.995273165271,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-08-12",
+   "rate": -0.552,
+   "index": 0.995257904416,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-08-13",
+   "rate": -0.552,
+   "index": 0.995242643795,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-08-14",
+   "rate": -0.549,
+   "index": 0.995227383408,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-08-17",
+   "rate": -0.553,
+   "index": 0.995181851755,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-08-18",
+   "rate": -0.554,
+   "index": 0.995166564656,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-08-19",
+   "rate": -0.553,
+   "index": 0.995151250148,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-08-20",
+   "rate": -0.553,
+   "index": 0.995135963519,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-08-21",
+   "rate": -0.554,
+   "index": 0.995120677125,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-08-24",
+   "rate": -0.552,
+   "index": 0.995074735721,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-08-25",
+   "rate": -0.553,
+   "index": 0.995059477908,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-08-26",
+   "rate": -0.554,
+   "index": 0.995044192689,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-08-27",
+   "rate": -0.552,
+   "index": 0.995028880064,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-08-28",
+   "rate": -0.552,
+   "index": 0.995013622955,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-08-31",
+   "rate": -0.557,
+   "index": 0.994967852328,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-09-01",
+   "rate": -0.554,
+   "index": 0.994952457965,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-09-02",
+   "rate": -0.555,
+   "index": 0.994937146752,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-09-03",
+   "rate": -0.551,
+   "index": 0.994921808137,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-09-04",
+   "rate": -0.552,
+   "index": 0.994906580306,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-09-07",
+   "rate": -0.551,
+   "index": 0.994860814604,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-09-08",
+   "rate": -0.553,
+   "index": 0.994845587706,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-09-09",
+   "rate": -0.554,
+   "index": 0.994830305773,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-09-10",
+   "rate": -0.554,
+   "index": 0.99481499644,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-09-11",
+   "rate": -0.553,
+   "index": 0.994799687342,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-09-14",
+   "rate": -0.555,
+   "index": 0.994753843657,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-09-15",
+   "rate": -0.551,
+   "index": 0.994738507868,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-09-16",
+   "rate": -0.556,
+   "index": 0.994723282843,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-09-17",
+   "rate": -0.553,
+   "index": 0.994707919894,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-09-18",
+   "rate": -0.552,
+   "index": 0.994692640075,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-09-21",
+   "rate": -0.552,
+   "index": 0.994646884214,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-09-22",
+   "rate": -0.552,
+   "index": 0.994631632962,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-09-23",
+   "rate": -0.551,
+   "index": 0.994616381943,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-09-24",
+   "rate": -0.553,
+   "index": 0.994601158787,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-09-25",
+   "rate": -0.554,
+   "index": 0.994585880608,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-09-28",
+   "rate": -0.555,
+   "index": 0.994539963893,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-09-29",
+   "rate": -0.556,
+   "index": 0.994524631402,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-09-30",
+   "rate": -0.57,
+   "index": 0.994509271522,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-10-01",
+   "rate": -0.558,
+   "index": 0.994493525125,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-10-02",
+   "rate": -0.555,
+   "index": 0.994478110475,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-10-05",
+   "rate": -0.555,
+   "index": 0.994432115863,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-10-06",
+   "rate": -0.556,
+   "index": 0.994416785034,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-10-07",
+   "rate": -0.555,
+   "index": 0.994401426819,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-10-08",
+   "rate": -0.553,
+   "index": 0.994386096464,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-10-09",
+   "rate": -0.553,
+   "index": 0.994370821589,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-10-12",
+   "rate": -0.556,
+   "index": 0.994324997667,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-10-13",
+   "rate": -0.555,
+   "index": 0.99430964087,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-10-14",
+   "rate": -0.556,
+   "index": 0.994294311929,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-10-15",
+   "rate": -0.556,
+   "index": 0.994278955606,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-10-16",
+   "rate": -0.553,
+   "index": 0.99426359952,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-10-19",
+   "rate": -0.553,
+   "index": 0.994217780539,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-10-20",
+   "rate": -0.553,
+   "index": 0.994202508249,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-10-21",
+   "rate": -0.552,
+   "index": 0.994187236194,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-10-22",
+   "rate": -0.554,
+   "index": 0.99417199199,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-10-23",
+   "rate": -0.553,
+   "index": 0.994156692787,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-10-26",
+   "rate": -0.552,
+   "index": 0.994110878733,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-10-27",
+   "rate": -0.554,
+   "index": 0.9940956357,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-10-28",
+   "rate": -0.555,
+   "index": 0.994080337672,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-10-29",
+   "rate": -0.552,
+   "index": 0.994065012267,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-10-30",
+   "rate": -0.557,
+   "index": 0.994049769937,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-11-02",
+   "rate": -0.555,
+   "index": 0.99400362946,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-11-03",
+   "rate": -0.553,
+   "index": 0.993988305238,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-11-04",
+   "rate": -0.558,
+   "index": 0.993973036473,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-11-05",
+   "rate": -0.556,
+   "index": 0.993957629891,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-11-06",
+   "rate": -0.558,
+   "index": 0.993942278767,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-11-09",
+   "rate": -0.558,
+   "index": 0.993896060451,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-11-10",
+   "rate": -0.557,
+   "index": 0.993880655062,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-11-11",
+   "rate": -0.558,
+   "index": 0.99386527752,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-11-12",
+   "rate": -0.548,
+   "index": 0.993849872608,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-11-13",
+   "rate": -0.556,
+   "index": 0.993834744005,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-11-16",
+   "rate": -0.558,
+   "index": 0.993788696328,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-11-17",
+   "rate": -0.557,
+   "index": 0.993773292603,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-11-18",
+   "rate": -0.557,
+   "index": 0.993757916722,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-11-19",
+   "rate": -0.557,
+   "index": 0.993742541079,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-11-20",
+   "rate": -0.557,
+   "index": 0.993727165673,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-11-23",
+   "rate": -0.557,
+   "index": 0.993681040171,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-11-24",
+   "rate": -0.556,
+   "index": 0.993665665717,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-11-25",
+   "rate": -0.554,
+   "index": 0.993650319103,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-11-26",
+   "rate": -0.556,
+   "index": 0.993635027928,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-11-27",
+   "rate": -0.557,
+   "index": 0.993619681787,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-11-30",
+   "rate": -0.56,
+   "index": 0.993573561274,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-12-01",
+   "rate": -0.557,
+   "index": 0.993558105685,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-12-02",
+   "rate": -0.556,
+   "index": 0.993542733133,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-12-03",
+   "rate": -0.556,
+   "index": 0.993527388418,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-12-04",
+   "rate": -0.555,
+   "index": 0.993512043939,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-12-07",
+   "rate": -0.555,
+   "index": 0.993466094007,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-12-08",
+   "rate": -0.559,
+   "index": 0.993450778072,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-12-09",
+   "rate": -0.556,
+   "index": 0.993435351989,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-12-10",
+   "rate": -0.556,
+   "index": 0.993420008932,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-12-11",
+   "rate": -0.557,
+   "index": 0.993404666111,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-12-14",
+   "rate": -0.558,
+   "index": 0.993358555578,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-12-15",
+   "rate": -0.551,
+   "index": 0.993343158521,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-12-16",
+   "rate": -0.557,
+   "index": 0.993327954852,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-12-17",
+   "rate": -0.556,
+   "index": 0.993312585861,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-12-18",
+   "rate": -0.558,
+   "index": 0.9932972447,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-12-21",
+   "rate": -0.557,
+   "index": 0.993251056378,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-12-22",
+   "rate": -0.558,
+   "index": 0.993235688577,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-12-23",
+   "rate": -0.559,
+   "index": 0.993220293424,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-12-24",
+   "rate": -0.555,
+   "index": 0.99320487092,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-12-28",
+   "rate": -0.553,
+   "index": 0.993143623286,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-12-29",
+   "rate": -0.557,
+   "index": 0.993128367496,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-12-30",
+   "rate": -0.555,
+   "index": 0.993113001594,
+   "index_synthetic": true
+  },
+  {
+   "date": "2020-12-31",
+   "rate": -0.583,
+   "index": 0.993097691101,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-01-04",
+   "rate": -0.566,
+   "index": 0.99303336044,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-01-05",
+   "rate": -0.563,
+   "index": 0.993017747749,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-01-06",
+   "rate": -0.566,
+   "index": 0.993002218054,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-01-07",
+   "rate": -0.565,
+   "index": 0.992986605853,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-01-08",
+   "rate": -0.562,
+   "index": 0.99297102148,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-01-11",
+   "rate": -0.564,
+   "index": 0.992924517337,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-01-12",
+   "rate": -0.563,
+   "index": 0.99290896152,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-01-13",
+   "rate": -0.562,
+   "index": 0.992893433527,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-01-14",
+   "rate": -0.564,
+   "index": 0.992877933357,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-01-15",
+   "rate": -0.566,
+   "index": 0.992862378269,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-01-18",
+   "rate": -0.565,
+   "index": 0.99281554826,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-01-19",
+   "rate": -0.564,
+   "index": 0.992799966572,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-01-20",
+   "rate": -0.564,
+   "index": 0.992784412706,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-01-21",
+   "rate": -0.562,
+   "index": 0.992768859083,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-01-22",
+   "rate": -0.561,
+   "index": 0.992753360858,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-01-25",
+   "rate": -0.564,
+   "index": 0.992706949639,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-01-26",
+   "rate": -0.558,
+   "index": 0.99269139723,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-01-27",
+   "rate": -0.563,
+   "index": 0.992676010513,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-01-28",
+   "rate": -0.561,
+   "index": 0.992660486163,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-01-29",
+   "rate": -0.564,
+   "index": 0.992645017204,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-02-01",
+   "rate": -0.566,
+   "index": 0.992598362888,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-02-02",
+   "rate": -0.564,
+   "index": 0.992582757036,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-02-03",
+   "rate": -0.558,
+   "index": 0.992567206573,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-02-04",
+   "rate": -0.564,
+   "index": 0.992551821781,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-02-05",
+   "rate": -0.565,
+   "index": 0.992536271803,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-02-08",
+   "rate": -0.563,
+   "index": 0.992489539887,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-02-09",
+   "rate": -0.564,
+   "index": 0.992474018453,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-02-10",
+   "rate": -0.564,
+   "index": 0.992458469694,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-02-11",
+   "rate": -0.565,
+   "index": 0.992442921177,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-02-12",
+   "rate": -0.564,
+   "index": 0.992427345337,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-02-15",
+   "rate": -0.563,
+   "index": 0.992380701252,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-02-16",
+   "rate": -0.564,
+   "index": 0.99236518152,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-02-17",
+   "rate": -0.563,
+   "index": 0.992349634466,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-02-18",
+   "rate": -0.562,
+   "index": 0.99233411522,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-02-19",
+   "rate": -0.563,
+   "index": 0.992318623782,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-02-22",
+   "rate": -0.564,
+   "index": 0.9922720675,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-02-23",
+   "rate": -0.565,
+   "index": 0.992256521904,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-02-24",
+   "rate": -0.564,
+   "index": 0.992240948989,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-02-25",
+   "rate": -0.564,
+   "index": 0.992225403881,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-02-26",
+   "rate": -0.566,
+   "index": 0.992209859017,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-03-01",
+   "rate": -0.563,
+   "index": 0.992163059785,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-03-02",
+   "rate": -0.565,
+   "index": 0.992147543457,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-03-03",
+   "rate": -0.565,
+   "index": 0.992131972253,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-03-04",
+   "rate": -0.565,
+   "index": 0.992116401292,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-03-05",
+   "rate": -0.562,
+   "index": 0.992100830577,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-03-08",
+   "rate": -0.558,
+   "index": 0.992054367188,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-03-09",
+   "rate": -0.56,
+   "index": 0.992038990345,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-03-10",
+   "rate": -0.562,
+   "index": 0.992023558627,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-03-11",
+   "rate": -0.561,
+   "index": 0.992008072037,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-03-12",
+   "rate": -0.562,
+   "index": 0.991992613245,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-03-15",
+   "rate": -0.564,
+   "index": 0.991946154924,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-03-16",
+   "rate": -0.562,
+   "index": 0.991930614435,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-03-17",
+   "rate": -0.561,
+   "index": 0.991915129295,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-03-18",
+   "rate": -0.566,
+   "index": 0.991899671951,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-03-19",
+   "rate": -0.565,
+   "index": 0.991884077084,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-03-22",
+   "rate": -0.566,
+   "index": 0.991837375876,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-03-23",
+   "rate": -0.563,
+   "index": 0.991821781988,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-03-24",
+   "rate": -0.564,
+   "index": 0.991806270997,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-03-25",
+   "rate": -0.564,
+   "index": 0.991790732699,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-03-26",
+   "rate": -0.568,
+   "index": 0.991775194644,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-03-29",
+   "rate": -0.57,
+   "index": 0.991728250618,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-03-30",
+   "rate": -0.57,
+   "index": 0.991712548255,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-03-31",
+   "rate": -0.574,
+   "index": 0.991696846139,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-04-01",
+   "rate": -0.566,
+   "index": 0.991681034084,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-04-06",
+   "rate": -0.567,
+   "index": 0.991603076936,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-04-07",
+   "rate": -0.567,
+   "index": 0.991587459187,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-04-08",
+   "rate": -0.57,
+   "index": 0.991571841685,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-04-09",
+   "rate": -0.568,
+   "index": 0.991556141798,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-04-12",
+   "rate": -0.567,
+   "index": 0.99150920814,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-04-13",
+   "rate": -0.563,
+   "index": 0.99149359187,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-04-14",
+   "rate": -0.56,
+   "index": 0.991478086012,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-04-15",
+   "rate": -0.566,
+   "index": 0.99146266302,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-04-16",
+   "rate": -0.565,
+   "index": 0.991447075023,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-04-19",
+   "rate": -0.567,
+   "index": 0.99140039439,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-04-20",
+   "rate": -0.567,
+   "index": 0.991384779834,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-04-21",
+   "rate": -0.565,
+   "index": 0.991369165524,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-04-22",
+   "rate": -0.565,
+   "index": 0.991353606535,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-04-23",
+   "rate": -0.565,
+   "index": 0.991338047791,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-04-26",
+   "rate": -0.567,
+   "index": 0.991291372291,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-04-27",
+   "rate": -0.56,
+   "index": 0.991275759452,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-04-28",
+   "rate": -0.566,
+   "index": 0.991260339607,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-04-29",
+   "rate": -0.566,
+   "index": 0.991244754792,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-04-30",
+   "rate": -0.569,
+   "index": 0.991229170222,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-05-03",
+   "rate": -0.567,
+   "index": 0.991182169438,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-05-04",
+   "rate": -0.564,
+   "index": 0.991166558319,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-05-05",
+   "rate": -0.566,
+   "index": 0.991151030043,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-05-06",
+   "rate": -0.565,
+   "index": 0.991135446946,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-05-07",
+   "rate": -0.563,
+   "index": 0.991119891626,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-05-10",
+   "rate": -0.567,
+   "index": 0.991073391585,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-05-11",
+   "rate": -0.564,
+   "index": 0.991057782179,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-05-12",
+   "rate": -0.564,
+   "index": 0.991042255607,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-05-13",
+   "rate": -0.564,
+   "index": 0.991026729278,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-05-14",
+   "rate": -0.564,
+   "index": 0.991011203193,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-05-17",
+   "rate": -0.565,
+   "index": 0.990964625666,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-05-18",
+   "rate": -0.558,
+   "index": 0.990949073027,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-05-19",
+   "rate": -0.564,
+   "index": 0.990933713316,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-05-20",
+   "rate": -0.563,
+   "index": 0.990918188688,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-05-21",
+   "rate": -0.564,
+   "index": 0.990902691829,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-05-24",
+   "rate": -0.566,
+   "index": 0.990856119402,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-05-25",
+   "rate": -0.565,
+   "index": 0.990840540942,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-05-26",
+   "rate": -0.565,
+   "index": 0.99082499025,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-05-27",
+   "rate": -0.564,
+   "index": 0.990809439802,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-05-28",
+   "rate": -0.566,
+   "index": 0.990793917121,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-05-31",
+   "rate": -0.571,
+   "index": 0.990747184675,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-06-01",
+   "rate": -0.564,
+   "index": 0.990731470324,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-06-02",
+   "rate": -0.563,
+   "index": 0.990715948864,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-06-03",
+   "rate": -0.563,
+   "index": 0.990700455167,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-06-04",
+   "rate": -0.563,
+   "index": 0.990684961713,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-06-07",
+   "rate": -0.564,
+   "index": 0.990638482077,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-06-08",
+   "rate": -0.563,
+   "index": 0.990622962074,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-06-09",
+   "rate": -0.564,
+   "index": 0.990607469831,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-06-10",
+   "rate": -0.561,
+   "index": 0.990591950314,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-06-11",
+   "rate": -0.566,
+   "index": 0.99057651359,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-06-14",
+   "rate": -0.565,
+   "index": 0.990529791398,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-06-15",
+   "rate": -0.561,
+   "index": 0.990514245583,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-06-16",
+   "rate": -0.562,
+   "index": 0.990498810069,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-06-17",
+   "rate": -0.563,
+   "index": 0.990483347282,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-06-18",
+   "rate": -0.563,
+   "index": 0.990467857223,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-06-21",
+   "rate": -0.564,
+   "index": 0.990421387773,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-06-22",
+   "rate": -0.564,
+   "index": 0.990405871171,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-06-23",
+   "rate": -0.563,
+   "index": 0.990390354813,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-06-24",
+   "rate": -0.565,
+   "index": 0.990374866208,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-06-25",
+   "rate": -0.565,
+   "index": 0.990359322824,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-06-28",
+   "rate": -0.566,
+   "index": 0.990312693406,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-06-29",
+   "rate": -0.568,
+   "index": 0.99029712349,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-06-30",
+   "rate": -0.581,
+   "index": 0.990281498802,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-07-01",
+   "rate": -0.565,
+   "index": 0.990265516759,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-07-02",
+   "rate": -0.565,
+   "index": 0.990249975092,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-07-05",
+   "rate": -0.566,
+   "index": 0.990203350822,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-07-06",
+   "rate": -0.565,
+   "index": 0.990187782625,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-07-07",
+   "rate": -0.565,
+   "index": 0.990172242178,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-07-08",
+   "rate": -0.566,
+   "index": 0.990156701975,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-07-09",
+   "rate": -0.566,
+   "index": 0.990141134511,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-07-12",
+   "rate": -0.568,
+   "index": 0.990094432854,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-07-13",
+   "rate": -0.566,
+   "index": 0.990078811364,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-07-14",
+   "rate": -0.566,
+   "index": 0.990063245125,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-07-15",
+   "rate": -0.566,
+   "index": 0.990047679131,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-07-16",
+   "rate": -0.567,
+   "index": 0.990032113381,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-07-19",
+   "rate": -0.566,
+   "index": 0.989985334364,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-07-20",
+   "rate": -0.567,
+   "index": 0.989969769594,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-07-21",
+   "rate": -0.568,
+   "index": 0.989954177571,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-07-22",
+   "rate": -0.563,
+   "index": 0.989938558294,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-07-23",
+   "rate": -0.567,
+   "index": 0.989923076754,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-07-26",
+   "rate": -0.567,
+   "index": 0.989876302889,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-07-27",
+   "rate": -0.563,
+   "index": 0.989860712337,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-07-28",
+   "rate": -0.567,
+   "index": 0.989845232016,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-07-29",
+   "rate": -0.567,
+   "index": 0.989829641953,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-07-30",
+   "rate": -0.571,
+   "index": 0.989814052136,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-08-02",
+   "rate": -0.565,
+   "index": 0.989766953484,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-08-03",
+   "rate": -0.57,
+   "index": 0.989751419642,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-08-04",
+   "rate": -0.57,
+   "index": 0.989735748578,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-08-05",
+   "rate": -0.566,
+   "index": 0.989720077762,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-08-06",
+   "rate": -0.569,
+   "index": 0.989704517163,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-08-09",
+   "rate": -0.568,
+   "index": 0.989657588674,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-08-10",
+   "rate": -0.567,
+   "index": 0.989641974076,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-08-11",
+   "rate": -0.567,
+   "index": 0.989626387215,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-08-12",
+   "rate": -0.568,
+   "index": 0.989610800599,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-08-13",
+   "rate": -0.569,
+   "index": 0.98959518674,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-08-16",
+   "rate": -0.569,
+   "index": 0.989548263435,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-08-17",
+   "rate": -0.568,
+   "index": 0.989532623075,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-08-18",
+   "rate": -0.567,
+   "index": 0.989517010449,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-08-19",
+   "rate": -0.567,
+   "index": 0.989501425556,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-08-20",
+   "rate": -0.567,
+   "index": 0.989485840909,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-08-23",
+   "rate": -0.568,
+   "index": 0.989439087703,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-08-24",
+   "rate": -0.567,
+   "index": 0.989423476553,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-08-25",
+   "rate": -0.564,
+   "index": 0.989407893133,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-08-26",
+   "rate": -0.57,
+   "index": 0.989392392409,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-08-27",
+   "rate": -0.57,
+   "index": 0.98937672703,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-08-30",
+   "rate": -0.568,
+   "index": 0.989329731635,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-08-31",
+   "rate": -0.57,
+   "index": 0.98931412221,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-09-01",
+   "rate": -0.569,
+   "index": 0.98929845807,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-09-02",
+   "rate": -0.569,
+   "index": 0.989282821658,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-09-03",
+   "rate": -0.568,
+   "index": 0.989267185494,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-09-06",
+   "rate": -0.569,
+   "index": 0.98922036018,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-09-07",
+   "rate": -0.569,
+   "index": 0.989204725003,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-09-08",
+   "rate": -0.569,
+   "index": 0.989189090073,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-09-09",
+   "rate": -0.57,
+   "index": 0.98917345539,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-09-10",
+   "rate": -0.57,
+   "index": 0.989157793477,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-09-13",
+   "rate": -0.571,
+   "index": 0.989110808481,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-09-14",
+   "rate": -0.568,
+   "index": 0.989095120085,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-09-15",
+   "rate": -0.573,
+   "index": 0.989079514362,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-09-16",
+   "rate": -0.567,
+   "index": 0.989063771513,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-09-17",
+   "rate": -0.571,
+   "index": 0.989048193759,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-09-20",
+   "rate": -0.566,
+   "index": 0.989001131549,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-09-21",
+   "rate": -0.571,
+   "index": 0.988985582253,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-09-22",
+   "rate": -0.566,
+   "index": 0.988969895843,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-09-23",
+   "rate": -0.57,
+   "index": 0.988954347039,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-09-24",
+   "rate": -0.569,
+   "index": 0.988938688595,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-09-27",
+   "rate": -0.571,
+   "index": 0.988891796419,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-09-28",
+   "rate": -0.573,
+   "index": 0.988876111496,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-09-29",
+   "rate": -0.572,
+   "index": 0.988860371884,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-09-30",
+   "rate": -0.58,
+   "index": 0.988844659992,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-10-01",
+   "rate": -0.571,
+   "index": 0.988828728606,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-10-04",
+   "rate": -0.569,
+   "index": 0.988781676839,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-10-05",
+   "rate": -0.569,
+   "index": 0.988766048595,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-10-06",
+   "rate": -0.569,
+   "index": 0.988750420598,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-10-07",
+   "rate": -0.568,
+   "index": 0.988734792849,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-10-08",
+   "rate": -0.568,
+   "index": 0.988719192811,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-10-11",
+   "rate": -0.57,
+   "index": 0.988672393436,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-10-12",
+   "rate": -0.562,
+   "index": 0.988656739456,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-10-13",
+   "rate": -0.569,
+   "index": 0.988641305426,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-10-14",
+   "rate": -0.57,
+   "index": 0.988625679401,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-10-15",
+   "rate": -0.572,
+   "index": 0.988610026161,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-10-18",
+   "rate": -0.574,
+   "index": 0.988562902416,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-10-19",
+   "rate": -0.573,
+   "index": 0.98854714033,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-10-20",
+   "rate": -0.571,
+   "index": 0.988531405955,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-10-21",
+   "rate": -0.573,
+   "index": 0.988515726748,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-10-22",
+   "rate": -0.569,
+   "index": 0.988499992873,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-10-25",
+   "rate": -0.571,
+   "index": 0.988453121498,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-10-26",
+   "rate": -0.57,
+   "index": 0.988437443533,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-10-27",
+   "rate": -0.573,
+   "index": 0.988421793274,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-10-28",
+   "rate": -0.573,
+   "index": 0.988406060894,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-10-29",
+   "rate": -0.578,
+   "index": 0.988390328764,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-11-01",
+   "rate": -0.579,
+   "index": 0.988342721296,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-11-02",
+   "rate": -0.569,
+   "index": 0.988326825451,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-11-03",
+   "rate": -0.574,
+   "index": 0.988311204396,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-11-04",
+   "rate": -0.573,
+   "index": 0.988295446323,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-11-05",
+   "rate": -0.572,
+   "index": 0.988279715954,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-11-08",
+   "rate": -0.575,
+   "index": 0.988232607954,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-11-09",
+   "rate": -0.575,
+   "index": 0.988216823684,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-11-10",
+   "rate": -0.576,
+   "index": 0.988201039665,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-11-11",
+   "rate": -0.575,
+   "index": 0.988185228448,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-11-12",
+   "rate": -0.572,
+   "index": 0.988169444934,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-11-15",
+   "rate": -0.569,
+   "index": 0.988122342191,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-11-16",
+   "rate": -0.571,
+   "index": 0.988106724368,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-11-17",
+   "rate": -0.571,
+   "index": 0.988091051897,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-11-18",
+   "rate": -0.571,
+   "index": 0.988075379675,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-11-19",
+   "rate": -0.573,
+   "index": 0.988059707702,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-11-22",
+   "rate": -0.573,
+   "index": 0.988012527851,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-11-23",
+   "rate": -0.574,
+   "index": 0.987996801985,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-11-24",
+   "rate": -0.57,
+   "index": 0.987981048925,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-11-25",
+   "rate": -0.573,
+   "index": 0.987965405892,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-11-26",
+   "rate": -0.573,
+   "index": 0.987949680776,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-11-29",
+   "rate": -0.573,
+   "index": 0.987902506178,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-11-30",
+   "rate": -0.575,
+   "index": 0.987886782063,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-12-01",
+   "rate": -0.574,
+   "index": 0.987871003316,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-12-02",
+   "rate": -0.575,
+   "index": 0.987855252262,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-12-03",
+   "rate": -0.578,
+   "index": 0.987839474018,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-12-06",
+   "rate": -0.578,
+   "index": 0.987791893084,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-12-07",
+   "rate": -0.577,
+   "index": 0.987776033536,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-12-08",
+   "rate": -0.577,
+   "index": 0.987760201681,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-12-09",
+   "rate": -0.578,
+   "index": 0.98774437008,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-12-10",
+   "rate": -0.577,
+   "index": 0.987728511296,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-12-13",
+   "rate": -0.579,
+   "index": 0.987681018016,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-12-14",
+   "rate": -0.577,
+   "index": 0.987665132813,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-12-15",
+   "rate": -0.577,
+   "index": 0.987649302736,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-12-16",
+   "rate": -0.577,
+   "index": 0.987633472912,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-12-17",
+   "rate": -0.576,
+   "index": 0.987617643343,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-12-20",
+   "rate": -0.576,
+   "index": 0.987570237696,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-12-21",
+   "rate": -0.571,
+   "index": 0.987554436572,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-12-22",
+   "rate": -0.574,
+   "index": 0.987538772861,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-12-23",
+   "rate": -0.576,
+   "index": 0.987523027104,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-12-24",
+   "rate": -0.58,
+   "index": 0.987507226736,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-12-27",
+   "rate": -0.576,
+   "index": 0.98745949722,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-12-28",
+   "rate": -0.575,
+   "index": 0.987443697868,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-12-29",
+   "rate": -0.578,
+   "index": 0.987427926198,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-12-30",
+   "rate": -0.58,
+   "index": 0.987412072494,
+   "index_synthetic": true
+  },
+  {
+   "date": "2021-12-31",
+   "rate": -0.59,
+   "index": 0.987396164188,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-01-03",
+   "rate": -0.578,
+   "index": 0.98734761721,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-01-04",
+   "rate": -0.578,
+   "index": 0.987331764796,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-01-05",
+   "rate": -0.578,
+   "index": 0.987315912636,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-01-06",
+   "rate": -0.578,
+   "index": 0.98730006073,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-01-07",
+   "rate": -0.58,
+   "index": 0.987284209079,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-01-10",
+   "rate": -0.579,
+   "index": 0.987236490342,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-01-11",
+   "rate": -0.579,
+   "index": 0.987220612289,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-01-12",
+   "rate": -0.578,
+   "index": 0.987204734491,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-01-13",
+   "rate": -0.578,
+   "index": 0.98718888437,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-01-14",
+   "rate": -0.578,
+   "index": 0.987173034504,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-01-17",
+   "rate": -0.578,
+   "index": 0.98712548567,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-01-18",
+   "rate": -0.579,
+   "index": 0.987109636822,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-01-19",
+   "rate": -0.578,
+   "index": 0.987093760808,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-01-20",
+   "rate": -0.579,
+   "index": 0.98707791247,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-01-21",
+   "rate": -0.579,
+   "index": 0.987062036966,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-01-24",
+   "rate": -0.579,
+   "index": 0.987014411223,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-01-25",
+   "rate": -0.578,
+   "index": 0.986998536741,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-01-26",
+   "rate": -0.576,
+   "index": 0.986982689932,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-01-27",
+   "rate": -0.573,
+   "index": 0.986966898209,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-01-28",
+   "rate": -0.573,
+   "index": 0.986951188985,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-01-31",
+   "rate": -0.579,
+   "index": 0.986904062066,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-02-01",
+   "rate": -0.578,
+   "index": 0.986888189359,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-02-02",
+   "rate": -0.578,
+   "index": 0.986872344321,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-02-03",
+   "rate": -0.577,
+   "index": 0.986856499537,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-02-04",
+   "rate": -0.578,
+   "index": 0.986840682421,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-02-07",
+   "rate": -0.578,
+   "index": 0.986793149594,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-02-08",
+   "rate": -0.574,
+   "index": 0.986777306082,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-02-09",
+   "rate": -0.578,
+   "index": 0.986761572466,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-02-10",
+   "rate": -0.572,
+   "index": 0.986745729461,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-02-11",
+   "rate": -0.578,
+   "index": 0.986730051168,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-02-14",
+   "rate": -0.578,
+   "index": 0.98668252367,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-02-15",
+   "rate": -0.576,
+   "index": 0.986666681934,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-02-16",
+   "rate": -0.576,
+   "index": 0.986650895267,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-02-17",
+   "rate": -0.576,
+   "index": 0.986635108853,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-02-18",
+   "rate": -0.576,
+   "index": 0.986619322691,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-02-21",
+   "rate": -0.576,
+   "index": 0.986571964964,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-02-22",
+   "rate": -0.575,
+   "index": 0.986556179812,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-02-23",
+   "rate": -0.576,
+   "index": 0.986540422318,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-02-24",
+   "rate": -0.576,
+   "index": 0.986524637671,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-02-25",
+   "rate": -0.575,
+   "index": 0.986508853277,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-02-28",
+   "rate": -0.58,
+   "index": 0.986461583061,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-03-01",
+   "rate": -0.577,
+   "index": 0.986445690069,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-03-02",
+   "rate": -0.578,
+   "index": 0.986429879536,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-03-03",
+   "rate": -0.579,
+   "index": 0.986414041857,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-03-04",
+   "rate": -0.577,
+   "index": 0.986398177031,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-03-07",
+   "rate": -0.579,
+   "index": 0.986350747718,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-03-08",
+   "rate": -0.579,
+   "index": 0.986334883911,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-03-09",
+   "rate": -0.58,
+   "index": 0.986319020358,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-03-10",
+   "rate": -0.576,
+   "index": 0.986303129663,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-03-11",
+   "rate": -0.577,
+   "index": 0.986287348812,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-03-14",
+   "rate": -0.577,
+   "index": 0.986239924829,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-03-15",
+   "rate": -0.573,
+   "index": 0.986224117595,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-03-16",
+   "rate": -0.577,
+   "index": 0.986208420194,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-03-17",
+   "rate": -0.578,
+   "index": 0.986192613465,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-03-18",
+   "rate": -0.578,
+   "index": 0.986176779595,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-03-21",
+   "rate": -0.578,
+   "index": 0.986129278746,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-03-22",
+   "rate": -0.578,
+   "index": 0.986113445893,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-03-23",
+   "rate": -0.578,
+   "index": 0.986097613294,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-03-24",
+   "rate": -0.579,
+   "index": 0.986081780949,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-03-25",
+   "rate": -0.581,
+   "index": 0.986065921467,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-03-28",
+   "rate": -0.58,
+   "index": 0.986018179442,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-03-29",
+   "rate": -0.579,
+   "index": 0.986002293593,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-03-30",
+   "rate": -0.579,
+   "index": 0.98598643539,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-03-31",
+   "rate": -0.593,
+   "index": 0.985970577441,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-04-01",
+   "rate": -0.582,
+   "index": 0.985954336315,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-04-04",
+   "rate": -0.585,
+   "index": 0.985906517529,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-04-05",
+   "rate": -0.586,
+   "index": 0.985890496548,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-04-06",
+   "rate": -0.584,
+   "index": 0.985874448442,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-04-07",
+   "rate": -0.582,
+   "index": 0.985858455368,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-04-08",
+   "rate": -0.583,
+   "index": 0.985842517323,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-04-11",
+   "rate": -0.584,
+   "index": 0.985794621807,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-04-12",
+   "rate": -0.583,
+   "index": 0.985778630028,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-04-13",
+   "rate": -0.585,
+   "index": 0.98576266589,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-04-14",
+   "rate": -0.586,
+   "index": 0.985746647247,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-04-19",
+   "rate": -0.58,
+   "index": 0.985666418423,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-04-20",
+   "rate": -0.583,
+   "index": 0.985650538241,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-04-21",
+   "rate": -0.585,
+   "index": 0.985634576179,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-04-22",
+   "rate": -0.583,
+   "index": 0.985618559617,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-04-25",
+   "rate": -0.585,
+   "index": 0.985570674982,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-04-26",
+   "rate": -0.582,
+   "index": 0.985554659458,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-04-27",
+   "rate": -0.583,
+   "index": 0.985538726325,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-04-28",
+   "rate": -0.583,
+   "index": 0.985522766072,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-04-29",
+   "rate": -0.586,
+   "index": 0.985506806079,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-05-02",
+   "rate": -0.583,
+   "index": 0.985458680496,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-05-03",
+   "rate": -0.579,
+   "index": 0.985442721541,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-05-04",
+   "rate": -0.585,
+   "index": 0.985426872337,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-05-05",
+   "rate": -0.585,
+   "index": 0.98541085915,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-05-06",
+   "rate": -0.585,
+   "index": 0.985394846224,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-05-09",
+   "rate": -0.586,
+   "index": 0.985346808225,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-05-10",
+   "rate": -0.584,
+   "index": 0.985330768968,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-05-11",
+   "rate": -0.584,
+   "index": 0.985314784714,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-05-12",
+   "rate": -0.577,
+   "index": 0.985298800718,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-05-13",
+   "rate": -0.586,
+   "index": 0.985283008568,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-05-16",
+   "rate": -0.585,
+   "index": 0.985234893915,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-05-17",
+   "rate": -0.585,
+   "index": 0.985218883848,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-05-18",
+   "rate": -0.585,
+   "index": 0.985202874041,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-05-19",
+   "rate": -0.585,
+   "index": 0.985186864494,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-05-20",
+   "rate": -0.585,
+   "index": 0.985170855207,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-05-23",
+   "rate": -0.586,
+   "index": 0.985122828128,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-05-24",
+   "rate": -0.587,
+   "index": 0.985106792518,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-05-25",
+   "rate": -0.587,
+   "index": 0.985090729804,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-05-26",
+   "rate": -0.59,
+   "index": 0.985074667353,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-05-27",
+   "rate": -0.585,
+   "index": 0.985058523073,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-05-30",
+   "rate": -0.586,
+   "index": 0.98501050147,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-05-31",
+   "rate": -0.589,
+   "index": 0.984994467688,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-06-01",
+   "rate": -0.582,
+   "index": 0.984978352084,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-06-02",
+   "rate": -0.585,
+   "index": 0.984962428268,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-06-03",
+   "rate": -0.587,
+   "index": 0.984946422628,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-06-06",
+   "rate": -0.59,
+   "index": 0.984898242332,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-06-07",
+   "rate": -0.583,
+   "index": 0.984882100945,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-06-08",
+   "rate": -0.582,
+   "index": 0.984866151326,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-06-09",
+   "rate": -0.582,
+   "index": 0.984850229323,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-06-10",
+   "rate": -0.581,
+   "index": 0.984834307578,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-06-13",
+   "rate": -0.58,
+   "index": 0.984786625183,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-06-14",
+   "rate": -0.578,
+   "index": 0.984770759177,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-06-15",
+   "rate": -0.58,
+   "index": 0.984754948135,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-06-16",
+   "rate": -0.582,
+   "index": 0.984739082639,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-06-17",
+   "rate": -0.582,
+   "index": 0.98472316269,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-06-20",
+   "rate": -0.581,
+   "index": 0.984675403617,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-06-21",
+   "rate": -0.582,
+   "index": 0.98465951205,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-06-22",
+   "rate": -0.579,
+   "index": 0.984643593388,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-06-23",
+   "rate": -0.578,
+   "index": 0.984627757037,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-06-24",
+   "rate": -0.58,
+   "index": 0.984611948291,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-06-27",
+   "rate": -0.579,
+   "index": 0.984564358714,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-06-28",
+   "rate": -0.581,
+   "index": 0.984548523637,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-06-29",
+   "rate": -0.578,
+   "index": 0.984532634118,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-06-30",
+   "rate": -0.591,
+   "index": 0.984516826899,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-07-01",
+   "rate": -0.58,
+   "index": 0.984500664415,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-07-04",
+   "rate": -0.58,
+   "index": 0.984453080216,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-07-05",
+   "rate": -0.58,
+   "index": 0.984437219583,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-07-06",
+   "rate": -0.58,
+   "index": 0.984421359205,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-07-07",
+   "rate": -0.579,
+   "index": 0.984405499083,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-07-08",
+   "rate": -0.579,
+   "index": 0.984389666562,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-07-11",
+   "rate": -0.58,
+   "index": 0.98434216976,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-07-12",
+   "rate": -0.58,
+   "index": 0.984326310914,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-07-13",
+   "rate": -0.581,
+   "index": 0.984310452324,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-07-14",
+   "rate": -0.582,
+   "index": 0.984294566647,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-07-15",
+   "rate": -0.582,
+   "index": 0.984278653884,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-07-18",
+   "rate": -0.582,
+   "index": 0.98423091637,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-07-19",
+   "rate": -0.583,
+   "index": 0.984215004637,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-07-20",
+   "rate": -0.582,
+   "index": 0.984199065821,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-07-21",
+   "rate": -0.584,
+   "index": 0.984183154603,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-07-22",
+   "rate": -0.582,
+   "index": 0.984167188965,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-07-25",
+   "rate": -0.583,
+   "index": 0.984119456857,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-07-26",
+   "rate": -0.581,
+   "index": 0.984103519589,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-07-27",
+   "rate": -0.085,
+   "index": 0.984087637251,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-07-28",
+   "rate": -0.087,
+   "index": 0.984085313711,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-07-29",
+   "rate": -0.091,
+   "index": 0.984082935505,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-08-01",
+   "rate": -0.088,
+   "index": 0.984075472876,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-08-02",
+   "rate": -0.087,
+   "index": 0.984073067358,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-08-03",
+   "rate": -0.087,
+   "index": 0.984070689182,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-08-04",
+   "rate": -0.084,
+   "index": 0.984068311011,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-08-05",
+   "rate": -0.085,
+   "index": 0.984066014851,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-08-08",
+   "rate": -0.085,
+   "index": 0.984059044384,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-08-09",
+   "rate": -0.085,
+   "index": 0.984056720911,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-08-10",
+   "rate": -0.086,
+   "index": 0.984054397444,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-08-11",
+   "rate": -0.085,
+   "index": 0.984052046647,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-08-12",
+   "rate": -0.088,
+   "index": 0.984049723191,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-08-15",
+   "rate": -0.088,
+   "index": 0.984042506826,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-08-16",
+   "rate": -0.087,
+   "index": 0.984040101389,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-08-17",
+   "rate": -0.087,
+   "index": 0.984037723292,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-08-18",
+   "rate": -0.084,
+   "index": 0.984035345201,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-08-19",
+   "rate": -0.084,
+   "index": 0.984033049119,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-08-22",
+   "rate": -0.082,
+   "index": 0.984026160887,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-08-23",
+   "rate": -0.08,
+   "index": 0.984023919494,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-08-24",
+   "rate": -0.082,
+   "index": 0.984021732774,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-08-25",
+   "rate": -0.08,
+   "index": 0.984019491392,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-08-26",
+   "rate": -0.08,
+   "index": 0.984017304682,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-08-29",
+   "rate": -0.081,
+   "index": 0.984010744566,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-08-30",
+   "rate": -0.084,
+   "index": 0.984008530542,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-08-31",
+   "rate": -0.091,
+   "index": 0.984006234522,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-09-01",
+   "rate": -0.084,
+   "index": 0.984003747173,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-09-02",
+   "rate": -0.083,
+   "index": 0.984001451164,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-09-05",
+   "rate": -0.087,
+   "index": 0.983994645154,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-09-06",
+   "rate": -0.085,
+   "index": 0.983992267167,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-09-07",
+   "rate": -0.076,
+   "index": 0.983989943852,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-09-08",
+   "rate": -0.086,
+   "index": 0.98398786654,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-09-09",
+   "rate": -0.085,
+   "index": 0.983985515902,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-09-12",
+   "rate": -0.086,
+   "index": 0.983978546005,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-09-13",
+   "rate": -0.083,
+   "index": 0.98397619539,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-09-14",
+   "rate": 0.662,
+   "index": 0.983973926778,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-09-15",
+   "rate": 0.66,
+   "index": 0.983992020965,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-09-16",
+   "rate": 0.66,
+   "index": 0.984010060819,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-09-19",
+   "rate": 0.657,
+   "index": 0.984064181372,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-09-20",
+   "rate": 0.659,
+   "index": 0.984082140543,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-09-21",
+   "rate": 0.661,
+   "index": 0.984100154714,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-09-22",
+   "rate": 0.661,
+   "index": 0.984118223886,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-09-23",
+   "rate": 0.662,
+   "index": 0.98413629339,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-09-26",
+   "rate": 0.663,
+   "index": 0.984190584909,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-09-27",
+   "rate": 0.662,
+   "index": 0.984208710419,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-09-28",
+   "rate": 0.662,
+   "index": 0.984226808923,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-09-29",
+   "rate": 0.661,
+   "index": 0.984244907761,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-09-30",
+   "rate": 0.642,
+   "index": 0.984262979591,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-10-03",
+   "rate": 0.656,
+   "index": 0.98431563766,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-10-04",
+   "rate": 0.657,
+   "index": 0.984333574079,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-10-05",
+   "rate": 0.652,
+   "index": 0.984351538166,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-10-06",
+   "rate": 0.655,
+   "index": 0.984369365867,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-10-07",
+   "rate": 0.656,
+   "index": 0.98438727592,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-10-10",
+   "rate": 0.655,
+   "index": 0.984441089091,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-10-11",
+   "rate": 0.657,
+   "index": 0.98445900045,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-10-12",
+   "rate": 0.658,
+   "index": 0.984476966827,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-10-13",
+   "rate": 0.658,
+   "index": 0.984494960878,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-10-14",
+   "rate": 0.657,
+   "index": 0.984512955258,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-10-17",
+   "rate": 0.658,
+   "index": 0.984566857342,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-10-18",
+   "rate": 0.657,
+   "index": 0.984584853037,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-10-19",
+   "rate": 0.656,
+   "index": 0.98460282171,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-10-20",
+   "rate": 0.656,
+   "index": 0.984620763362,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-10-21",
+   "rate": 0.657,
+   "index": 0.98463870534,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-10-24",
+   "rate": 0.658,
+   "index": 0.984692614309,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-10-25",
+   "rate": 0.656,
+   "index": 0.984710612302,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-10-26",
+   "rate": 0.656,
+   "index": 0.984728555918,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-10-27",
+   "rate": 0.657,
+   "index": 0.98474649986,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-10-28",
+   "rate": 0.656,
+   "index": 0.984764471484,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-10-31",
+   "rate": 0.648,
+   "index": 0.984818305275,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-11-01",
+   "rate": 0.659,
+   "index": 0.984836032004,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-11-02",
+   "rate": 1.403,
+   "index": 0.984854059975,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-11-03",
+   "rate": 1.403,
+   "index": 0.984892441926,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-11-04",
+   "rate": 1.401,
+   "index": 0.984930825373,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-11-07",
+   "rate": 1.4,
+   "index": 0.985045816047,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-11-08",
+   "rate": 1.4,
+   "index": 0.985084123385,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-11-09",
+   "rate": 1.4,
+   "index": 0.985122432212,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-11-10",
+   "rate": 1.402,
+   "index": 0.985160742528,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-11-11",
+   "rate": 1.404,
+   "index": 0.985199109066,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-11-14",
+   "rate": 1.401,
+   "index": 0.985314377362,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-11-15",
+   "rate": 1.4,
+   "index": 0.985352722513,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-11-16",
+   "rate": 1.401,
+   "index": 0.985391041786,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-11-17",
+   "rate": 1.402,
+   "index": 0.98542938992,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-11-18",
+   "rate": 1.403,
+   "index": 0.985467766921,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-11-21",
+   "rate": 1.403,
+   "index": 0.985582984527,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-11-22",
+   "rate": 1.404,
+   "index": 0.985621394886,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-11-23",
+   "rate": 1.405,
+   "index": 0.98565983412,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-11-24",
+   "rate": 1.405,
+   "index": 0.985698302233,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-11-25",
+   "rate": 1.403,
+   "index": 0.985736771848,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-11-28",
+   "rate": 1.403,
+   "index": 0.985852020905,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-11-29",
+   "rate": 1.402,
+   "index": 0.985890441749,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-11-30",
+   "rate": 1.391,
+   "index": 0.985928836705,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-12-01",
+   "rate": 1.4,
+   "index": 0.9859669319,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-12-02",
+   "rate": 1.4,
+   "index": 0.986005275058,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-12-05",
+   "rate": 1.398,
+   "index": 0.986120309007,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-12-06",
+   "rate": 1.406,
+   "index": 0.986158603345,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-12-07",
+   "rate": 1.399,
+   "index": 0.986197118318,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-12-08",
+   "rate": 1.4,
+   "index": 0.986235443033,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-12-09",
+   "rate": 1.4,
+   "index": 0.986273796634,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-12-12",
+   "rate": 1.4,
+   "index": 0.98638886191,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-12-13",
+   "rate": 1.4,
+   "index": 0.986427221477,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-12-14",
+   "rate": 1.402,
+   "index": 0.986465582536,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-12-15",
+   "rate": 1.403,
+   "index": 0.98650399989,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-12-16",
+   "rate": 1.402,
+   "index": 0.986542446143,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-12-19",
+   "rate": 1.403,
+   "index": 0.986657707185,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-12-20",
+   "rate": 1.403,
+   "index": 0.986696159429,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-12-21",
+   "rate": 1.902,
+   "index": 0.986734613171,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-12-22",
+   "rate": 1.904,
+   "index": 0.986786745649,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-12-23",
+   "rate": 1.907,
+   "index": 0.986838935704,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-12-27",
+   "rate": 1.906,
+   "index": 0.98704803591,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-12-28",
+   "rate": 1.906,
+   "index": 0.98710029462,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-12-29",
+   "rate": 1.905,
+   "index": 0.987152556096,
+   "index_synthetic": true
+  },
+  {
+   "date": "2022-12-30",
+   "rate": 1.89,
+   "index": 0.987204792919,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-01-02",
+   "rate": 1.906,
+   "index": 0.987360277674,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-01-03",
+   "rate": 1.904,
+   "index": 0.987412552915,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-01-04",
+   "rate": 1.904,
+   "index": 0.987464776068,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-01-05",
+   "rate": 1.9,
+   "index": 0.987517001983,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-01-06",
+   "rate": 1.898,
+   "index": 0.987569120936,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-01-09",
+   "rate": 1.9,
+   "index": 0.987725321452,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-01-10",
+   "rate": 1.9,
+   "index": 0.987777451399,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-01-11",
+   "rate": 1.9,
+   "index": 0.987829584098,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-01-12",
+   "rate": 1.9,
+   "index": 0.987881719548,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-01-13",
+   "rate": 1.901,
+   "index": 0.98793385775,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-01-16",
+   "rate": 1.902,
+   "index": 0.988090362939,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-01-17",
+   "rate": 1.901,
+   "index": 0.988142567046,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-01-18",
+   "rate": 1.902,
+   "index": 0.988194746464,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-01-19",
+   "rate": 1.903,
+   "index": 0.988246956086,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-01-20",
+   "rate": 1.903,
+   "index": 0.988299195918,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-01-23",
+   "rate": 1.902,
+   "index": 0.988455923699,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-01-24",
+   "rate": 1.904,
+   "index": 0.98850814712,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-01-25",
+   "rate": 1.904,
+   "index": 0.988560428218,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-01-26",
+   "rate": 1.904,
+   "index": 0.98861271208,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-01-27",
+   "rate": 1.906,
+   "index": 0.988664998708,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-01-30",
+   "rate": 1.904,
+   "index": 0.988822031666,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-01-31",
+   "rate": 1.894,
+   "index": 0.988874329364,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-02-01",
+   "rate": 1.901,
+   "index": 0.988926355141,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-02-02",
+   "rate": 1.902,
+   "index": 0.988978575947,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-02-03",
+   "rate": 1.898,
+   "index": 0.989030826982,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-02-06",
+   "rate": 1.901,
+   "index": 0.989187258691,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-02-07",
+   "rate": 1.902,
+   "index": 0.989239493274,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-02-08",
+   "rate": 2.401,
+   "index": 0.989291758094,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-02-09",
+   "rate": 2.401,
+   "index": 0.989357738358,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-02-10",
+   "rate": 2.401,
+   "index": 0.989423723022,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-02-13",
+   "rate": 2.4,
+   "index": 0.989621690219,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-02-14",
+   "rate": 2.4,
+   "index": 0.989687664998,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-02-15",
+   "rate": 2.405,
+   "index": 0.989753644176,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-02-16",
+   "rate": 2.4,
+   "index": 0.989819765218,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-02-17",
+   "rate": 2.398,
+   "index": 0.989885753202,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-02-20",
+   "rate": 2.4,
+   "index": 0.990083565372,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-02-21",
+   "rate": 2.398,
+   "index": 0.990149570943,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-02-22",
+   "rate": 2.399,
+   "index": 0.990215525906,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-02-23",
+   "rate": 2.399,
+   "index": 0.990281512769,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-02-24",
+   "rate": 2.398,
+   "index": 0.990347504028,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-02-27",
+   "rate": 2.398,
+   "index": 0.990545408471,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-02-28",
+   "rate": 2.388,
+   "index": 0.990611389802,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-03-01",
+   "rate": 2.398,
+   "index": 0.990677100357,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-03-02",
+   "rate": 2.399,
+   "index": 0.990743090459,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-03-03",
+   "rate": 2.4,
+   "index": 0.990809112478,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-03-06",
+   "rate": 2.399,
+   "index": 0.991007274301,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-03-07",
+   "rate": 2.398,
+   "index": 0.991073313924,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-03-08",
+   "rate": 2.399,
+   "index": 0.991139330419,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-03-09",
+   "rate": 2.401,
+   "index": 0.991205378843,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-03-10",
+   "rate": 2.403,
+   "index": 0.991271486735,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-03-13",
+   "rate": 2.401,
+   "index": 0.99146998885,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-03-14",
+   "rate": 2.401,
+   "index": 0.99153611439,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-03-15",
+   "rate": 2.4,
+   "index": 0.99160224434,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-03-16",
+   "rate": 2.399,
+   "index": 0.991668351157,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-03-17",
+   "rate": 2.402,
+   "index": 0.991734434834,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-03-20",
+   "rate": 2.398,
+   "index": 0.99193294701,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-03-21",
+   "rate": 2.399,
+   "index": 0.991999020765,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-03-22",
+   "rate": 2.898,
+   "index": 0.992065126478,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-03-23",
+   "rate": 2.899,
+   "index": 0.992144987721,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-03-24",
+   "rate": 2.899,
+   "index": 0.992224882952,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-03-27",
+   "rate": 2.898,
+   "index": 0.992464587946,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-03-28",
+   "rate": 2.894,
+   "index": 0.992544481346,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-03-29",
+   "rate": 2.894,
+   "index": 0.992624270894,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-03-30",
+   "rate": 2.896,
+   "index": 0.992704066856,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-03-31",
+   "rate": 2.884,
+   "index": 0.992783924383,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-04-03",
+   "rate": 2.898,
+   "index": 0.993022523453,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-04-04",
+   "rate": 2.898,
+   "index": 0.993102461766,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-04-05",
+   "rate": 2.902,
+   "index": 0.993182406514,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-04-06",
+   "rate": 2.903,
+   "index": 0.993262468052,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-04-11",
+   "rate": 2.897,
+   "index": 0.993662945961,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-04-12",
+   "rate": 2.898,
+   "index": 0.993742908226,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-04-13",
+   "rate": 2.899,
+   "index": 0.99382290453,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-04-14",
+   "rate": 2.896,
+   "index": 0.99390293488,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-04-17",
+   "rate": 2.897,
+   "index": 0.994142796788,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-04-18",
+   "rate": 2.901,
+   "index": 0.994222797668,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-04-19",
+   "rate": 2.902,
+   "index": 0.994302915456,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-04-20",
+   "rate": 2.904,
+   "index": 0.994383067318,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-04-21",
+   "rate": 2.902,
+   "index": 0.994463280886,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-04-24",
+   "rate": 2.905,
+   "index": 0.994703775256,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-04-25",
+   "rate": 2.901,
+   "index": 0.994784042324,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-04-26",
+   "rate": 2.9,
+   "index": 0.994864205339,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-04-27",
+   "rate": 2.9,
+   "index": 0.994944347177,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-04-28",
+   "rate": 2.894,
+   "index": 0.995024495472,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-05-02",
+   "rate": 2.896,
+   "index": 0.995344451126,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-05-03",
+   "rate": 2.896,
+   "index": 0.995424521058,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-05-04",
+   "rate": 2.897,
+   "index": 0.99550459743,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-05-05",
+   "rate": 2.898,
+   "index": 0.995584707898,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-05-08",
+   "rate": 2.892,
+   "index": 0.995825141604,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-05-09",
+   "rate": 2.894,
+   "index": 0.995905139558,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-05-10",
+   "rate": 3.145,
+   "index": 0.995985199265,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-05-11",
+   "rate": 3.145,
+   "index": 0.996072209639,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-05-12",
+   "rate": 3.148,
+   "index": 0.996159227614,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-05-15",
+   "rate": 3.145,
+   "index": 0.996420553384,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-05-16",
+   "rate": 3.147,
+   "index": 0.996507601791,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-05-17",
+   "rate": 3.151,
+   "index": 0.996594713164,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-05-18",
+   "rate": 3.153,
+   "index": 0.996681942885,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-05-19",
+   "rate": 3.151,
+   "index": 0.996769235611,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-05-22",
+   "rate": 3.15,
+   "index": 0.9970309706,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-05-23",
+   "rate": 3.157,
+   "index": 0.99711821081,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-05-24",
+   "rate": 3.148,
+   "index": 0.997205652537,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-05-25",
+   "rate": 3.148,
+   "index": 0.997292852632,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-05-26",
+   "rate": 3.152,
+   "index": 0.997380060351,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-05-29",
+   "rate": 3.147,
+   "index": 0.997642038847,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-05-30",
+   "rate": 3.148,
+   "index": 0.997729249389,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-05-31",
+   "rate": 3.144,
+   "index": 0.997816495268,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-06-01",
+   "rate": 3.147,
+   "index": 0.997903637909,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-06-02",
+   "rate": 3.148,
+   "index": 0.997990871319,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-06-05",
+   "rate": 3.148,
+   "index": 0.998252677591,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-06-06",
+   "rate": 3.145,
+   "index": 0.998339969241,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-06-07",
+   "rate": 3.144,
+   "index": 0.99842718533,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-06-08",
+   "rate": 3.146,
+   "index": 0.998514381305,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-06-09",
+   "rate": 3.147,
+   "index": 0.998601640367,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-06-12",
+   "rate": 3.147,
+   "index": 0.998863523647,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-06-13",
+   "rate": 3.147,
+   "index": 0.998950840967,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-06-14",
+   "rate": 3.15,
+   "index": 0.999038165919,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-06-15",
+   "rate": 3.147,
+   "index": 0.999125581759,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-06-16",
+   "rate": 3.144,
+   "index": 0.999212921987,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-06-19",
+   "rate": 3.144,
+   "index": 0.999474715772,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-06-20",
+   "rate": 3.144,
+   "index": 0.999562003231,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-06-21",
+   "rate": 3.395,
+   "index": 0.999649298313,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-06-22",
+   "rate": 3.397,
+   "index": 0.999743570795,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-06-23",
+   "rate": 3.4,
+   "index": 0.999837907709,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-06-26",
+   "rate": 3.4,
+   "index": 1.000121195116,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-06-27",
+   "rate": 3.397,
+   "index": 1.000215651007,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-06-28",
+   "rate": 3.4,
+   "index": 1.000310032467,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-06-29",
+   "rate": 3.4,
+   "index": 1.000404506193,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-06-30",
+   "rate": 3.4,
+   "index": 1.00049898884,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-07-03",
+   "rate": 3.399,
+   "index": 1.000782463554,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-07-04",
+   "rate": 3.401,
+   "index": 1.000876954098,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-07-05",
+   "rate": 3.404,
+   "index": 1.000971509168,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-07-06",
+   "rate": 3.406,
+   "index": 1.001066156585,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-07-07",
+   "rate": 3.406,
+   "index": 1.001160868567,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-07-10",
+   "rate": 3.402,
+   "index": 1.001445031393,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-07-11",
+   "rate": 3.404,
+   "index": 1.001539667949,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-07-12",
+   "rate": 3.404,
+   "index": 1.001634369088,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-07-13",
+   "rate": 3.401,
+   "index": 1.001729079183,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-07-14",
+   "rate": 3.402,
+   "index": 1.001823714755,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-07-17",
+   "rate": 3.4,
+   "index": 1.002107731778,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-07-18",
+   "rate": 3.399,
+   "index": 1.002202375286,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-07-19",
+   "rate": 3.4,
+   "index": 1.002296999893,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-07-20",
+   "rate": 3.403,
+   "index": 1.002391661277,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-07-21",
+   "rate": 3.404,
+   "index": 1.002486415133,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-07-24",
+   "rate": 3.405,
+   "index": 1.002770787113,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-07-25",
+   "rate": 3.405,
+   "index": 1.002865632516,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-07-26",
+   "rate": 3.402,
+   "index": 1.002960486891,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-07-27",
+   "rate": 3.403,
+   "index": 1.003055266657,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-07-28",
+   "rate": 3.404,
+   "index": 1.003150083242,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-07-31",
+   "rate": 3.392,
+   "index": 1.003434643482,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-08-01",
+   "rate": 3.404,
+   "index": 1.003529189324,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-08-02",
+   "rate": 3.655,
+   "index": 1.003624078584,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-08-03",
+   "rate": 3.653,
+   "index": 1.003725974307,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-08-04",
+   "rate": 3.653,
+   "index": 1.003827824612,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-08-07",
+   "rate": 3.653,
+   "index": 1.004133406532,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-08-08",
+   "rate": 3.652,
+   "index": 1.00423529818,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-08-09",
+   "rate": 3.649,
+   "index": 1.004337172272,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-08-10",
+   "rate": 3.652,
+   "index": 1.004438973004,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-08-11",
+   "rate": 3.653,
+   "index": 1.004540867758,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-08-14",
+   "rate": 3.656,
+   "index": 1.00484666674,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-08-15",
+   "rate": 3.657,
+   "index": 1.004948714502,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-08-16",
+   "rate": 3.654,
+   "index": 1.005050800542,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-08-17",
+   "rate": 3.654,
+   "index": 1.005152813198,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-08-18",
+   "rate": 3.655,
+   "index": 1.005254836209,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-08-21",
+   "rate": 3.654,
+   "index": 1.005561020077,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-08-22",
+   "rate": 3.655,
+   "index": 1.005663084521,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-08-23",
+   "rate": 3.652,
+   "index": 1.005765187259,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-08-24",
+   "rate": 3.649,
+   "index": 1.00586721655,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-08-25",
+   "rate": 3.652,
+   "index": 1.005969172369,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-08-28",
+   "rate": 3.651,
+   "index": 1.00627532232,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-08-29",
+   "rate": 3.652,
+   "index": 1.006377375409,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-08-30",
+   "rate": 3.652,
+   "index": 1.006479466803,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-08-31",
+   "rate": 3.646,
+   "index": 1.006581568553,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-09-01",
+   "rate": 3.652,
+   "index": 1.006683512897,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-09-04",
+   "rate": 3.652,
+   "index": 1.006989880247,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-09-05",
+   "rate": 3.651,
+   "index": 1.007092033776,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-09-06",
+   "rate": 3.652,
+   "index": 1.007194169693,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-09-07",
+   "rate": 3.652,
+   "index": 1.007296343946,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-09-08",
+   "rate": 3.653,
+   "index": 1.007398528564,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-09-11",
+   "rate": 3.652,
+   "index": 1.007705197466,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-09-12",
+   "rate": 3.654,
+   "index": 1.00780742356,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-09-13",
+   "rate": 3.652,
+   "index": 1.007909716013,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-09-14",
+   "rate": 3.653,
+   "index": 1.008011962854,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-09-15",
+   "rate": 3.65,
+   "index": 1.008114248068,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-09-18",
+   "rate": 3.648,
+   "index": 1.008420882819,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-09-19",
+   "rate": 3.651,
+   "index": 1.008523069468,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-09-20",
+   "rate": 3.901,
+   "index": 1.008625350516,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-09-21",
+   "rate": 3.902,
+   "index": 1.00873464628,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-09-22",
+   "rate": 3.905,
+   "index": 1.008843981907,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-09-25",
+   "rate": 3.904,
+   "index": 1.009172276553,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-09-26",
+   "rate": 3.904,
+   "index": 1.00928171568,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-09-27",
+   "rate": 3.905,
+   "index": 1.009391166675,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-09-28",
+   "rate": 3.906,
+   "index": 1.009500657578,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-09-29",
+   "rate": 3.88,
+   "index": 1.009610188399,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-10-02",
+   "rate": 3.899,
+   "index": 1.009936629027,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-10-03",
+   "rate": 3.9,
+   "index": 1.010046010774,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-10-04",
+   "rate": 3.901,
+   "index": 1.010155432426,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-10-05",
+   "rate": 3.9,
+   "index": 1.010264893991,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-10-06",
+   "rate": 3.899,
+   "index": 1.010374339354,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-10-09",
+   "rate": 3.9,
+   "index": 1.010702626817,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-10-10",
+   "rate": 3.899,
+   "index": 1.010812119601,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-10-11",
+   "rate": 3.901,
+   "index": 1.010921596169,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-10-12",
+   "rate": 3.901,
+   "index": 1.011031140757,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-10-13",
+   "rate": 3.903,
+   "index": 1.011140697214,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-10-16",
+   "rate": 3.902,
+   "index": 1.011469570726,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-10-17",
+   "rate": 3.904,
+   "index": 1.011579202789,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-10-18",
+   "rate": 3.903,
+   "index": 1.011688902934,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-10-19",
+   "rate": 3.905,
+   "index": 1.011798586872,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-10-20",
+   "rate": 3.905,
+   "index": 1.011908338914,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-10-23",
+   "rate": 3.905,
+   "index": 1.012237630752,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-10-24",
+   "rate": 3.904,
+   "index": 1.012347430417,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-10-25",
+   "rate": 3.9,
+   "index": 1.012457213872,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-10-26",
+   "rate": 3.901,
+   "index": 1.012566896737,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-10-27",
+   "rate": 3.903,
+   "index": 1.012676619611,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-10-30",
+   "rate": 3.899,
+   "index": 1.013005992681,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-10-31",
+   "rate": 3.882,
+   "index": 1.013115706858,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-11-01",
+   "rate": 3.9,
+   "index": 1.013224954502,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-11-02",
+   "rate": 3.903,
+   "index": 1.013334720539,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-11-03",
+   "rate": 3.902,
+   "index": 1.013444582911,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-11-06",
+   "rate": 3.9,
+   "index": 1.013774121308,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-11-07",
+   "rate": 3.902,
+   "index": 1.013883946838,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-11-08",
+   "rate": 3.902,
+   "index": 1.013993840592,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-11-09",
+   "rate": 3.902,
+   "index": 1.014103746258,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-11-10",
+   "rate": 3.904,
+   "index": 1.014213663836,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-11-13",
+   "rate": 3.903,
+   "index": 1.014543621348,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-11-14",
+   "rate": 3.902,
+   "index": 1.014653614786,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-11-15",
+   "rate": 3.899,
+   "index": 1.014763591964,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-11-16",
+   "rate": 3.906,
+   "index": 1.014873496499,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-11-17",
+   "rate": 3.902,
+   "index": 1.014983610273,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-11-20",
+   "rate": 3.903,
+   "index": 1.01531364911,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-11-21",
+   "rate": 3.901,
+   "index": 1.015423726032,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-11-22",
+   "rate": 3.902,
+   "index": 1.015533758475,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-11-23",
+   "rate": 3.902,
+   "index": 1.015643831051,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-11-24",
+   "rate": 3.904,
+   "index": 1.015753915557,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-11-27",
+   "rate": 3.903,
+   "index": 1.016084374164,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-11-28",
+   "rate": 3.903,
+   "index": 1.016194534645,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-11-29",
+   "rate": 3.902,
+   "index": 1.016304707069,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-11-30",
+   "rate": 3.891,
+   "index": 1.016414863207,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-12-01",
+   "rate": 3.904,
+   "index": 1.016524720714,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-12-04",
+   "rate": 3.904,
+   "index": 1.016855430089,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-12-05",
+   "rate": 3.905,
+   "index": 1.016965702412,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-12-06",
+   "rate": 3.904,
+   "index": 1.017076014941,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-12-07",
+   "rate": 3.903,
+   "index": 1.017186311185,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-12-08",
+   "rate": 3.903,
+   "index": 1.017296591134,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-12-11",
+   "rate": 3.902,
+   "index": 1.01762746685,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-12-12",
+   "rate": 3.905,
+   "index": 1.017737766361,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-12-13",
+   "rate": 3.905,
+   "index": 1.017848162638,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-12-14",
+   "rate": 3.907,
+   "index": 1.01795857089,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-12-15",
+   "rate": 3.904,
+   "index": 1.018069047671,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-12-18",
+   "rate": 3.901,
+   "index": 1.018400259468,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-12-19",
+   "rate": 3.901,
+   "index": 1.018510614452,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-12-20",
+   "rate": 3.901,
+   "index": 1.018620981394,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-12-21",
+   "rate": 3.899,
+   "index": 1.018731360295,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-12-22",
+   "rate": 3.899,
+   "index": 1.018841694561,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-12-27",
+   "rate": 3.9,
+   "index": 1.01939342564,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-12-28",
+   "rate": 3.9,
+   "index": 1.019503859928,
+   "index_synthetic": true
+  },
+  {
+   "date": "2023-12-29",
+   "rate": 3.882,
+   "index": 1.019614306179,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-01-02",
+   "rate": 3.906,
+   "index": 1.020054099816,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-01-03",
+   "rate": 3.904,
+   "index": 1.020164775686,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-01-04",
+   "rate": 3.902,
+   "index": 1.020275406889,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-01-05",
+   "rate": 3.905,
+   "index": 1.020385993406,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-01-08",
+   "rate": 3.904,
+   "index": 1.020718044015,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-01-09",
+   "rate": 3.904,
+   "index": 1.020828735216,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-01-10",
+   "rate": 3.906,
+   "index": 1.020939438421,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-01-11",
+   "rate": 3.905,
+   "index": 1.02105021035,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-01-12",
+   "rate": 3.904,
+   "index": 1.021160965936,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-01-15",
+   "rate": 3.902,
+   "index": 1.021493183637,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-01-16",
+   "rate": 3.905,
+   "index": 1.021603902148,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-01-17",
+   "rate": 3.904,
+   "index": 1.021714717793,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-01-18",
+   "rate": 3.907,
+   "index": 1.021825517078,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-01-19",
+   "rate": 3.904,
+   "index": 1.021936413531,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-01-22",
+   "rate": 3.902,
+   "index": 1.022268883511,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-01-23",
+   "rate": 3.902,
+   "index": 1.022379686099,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-01-24",
+   "rate": 3.905,
+   "index": 1.022490500697,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-01-25",
+   "rate": 3.905,
+   "index": 1.022601412514,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-01-26",
+   "rate": 3.904,
+   "index": 1.022712336362,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-01-29",
+   "rate": 3.907,
+   "index": 1.023045058775,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-01-30",
+   "rate": 3.907,
+   "index": 1.023156087582,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-01-31",
+   "rate": 3.894,
+   "index": 1.023267128439,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-02-01",
+   "rate": 3.905,
+   "index": 1.023377811833,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-02-02",
+   "rate": 3.906,
+   "index": 1.023488819898,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-02-05",
+   "rate": 3.907,
+   "index": 1.023821965509,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-02-06",
+   "rate": 3.908,
+   "index": 1.023933078632,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-02-07",
+   "rate": 3.908,
+   "index": 1.024044232256,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-02-08",
+   "rate": 3.908,
+   "index": 1.024155397947,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-02-09",
+   "rate": 3.91,
+   "index": 1.024266575705,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-02-12",
+   "rate": 3.909,
+   "index": 1.024600315898,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-02-13",
+   "rate": 3.909,
+   "index": 1.024711570415,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-02-14",
+   "rate": 3.911,
+   "index": 1.024822837013,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-02-15",
+   "rate": 3.911,
+   "index": 1.024934172628,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-02-16",
+   "rate": 3.909,
+   "index": 1.025045520337,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-02-19",
+   "rate": 3.91,
+   "index": 1.025379428916,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-02-20",
+   "rate": 3.911,
+   "index": 1.025490796515,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-02-21",
+   "rate": 3.91,
+   "index": 1.025602204695,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-02-22",
+   "rate": 3.909,
+   "index": 1.02571359649,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-02-23",
+   "rate": 3.907,
+   "index": 1.025824971892,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-02-26",
+   "rate": 3.904,
+   "index": 1.026158963405,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-02-27",
+   "rate": 3.905,
+   "index": 1.026270244644,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-02-28",
+   "rate": 3.906,
+   "index": 1.026381566458,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-02-29",
+   "rate": 3.887,
+   "index": 1.026492928858,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-03-01",
+   "rate": 3.904,
+   "index": 1.026603761581,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-03-04",
+   "rate": 3.903,
+   "index": 1.026937750005,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-03-05",
+   "rate": 3.911,
+   "index": 1.027049087172,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-03-06",
+   "rate": 3.905,
+   "index": 1.027160664644,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-03-07",
+   "rate": 3.908,
+   "index": 1.027272083044,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-03-08",
+   "rate": 3.907,
+   "index": 1.027383599135,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-03-11",
+   "rate": 3.904,
+   "index": 1.027718098112,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-03-12",
+   "rate": 3.905,
+   "index": 1.02782954843,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-03-13",
+   "rate": 3.907,
+   "index": 1.027941039386,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-03-14",
+   "rate": 3.908,
+   "index": 1.028052599542,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-03-15",
+   "rate": 3.909,
+   "index": 1.028164200363,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-03-18",
+   "rate": 3.909,
+   "index": 1.028499124852,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-03-19",
+   "rate": 3.908,
+   "index": 1.028610802715,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-03-20",
+   "rate": 3.908,
+   "index": 1.028722464132,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-03-21",
+   "rate": 3.907,
+   "index": 1.028834137671,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-03-22",
+   "rate": 3.909,
+   "index": 1.028945794753,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-03-25",
+   "rate": 3.909,
+   "index": 1.029280973846,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-03-26",
+   "rate": 3.906,
+   "index": 1.029392736605,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-03-27",
+   "rate": 3.906,
+   "index": 1.029504425717,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-03-28",
+   "rate": 3.899,
+   "index": 1.029616126947,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-04-02",
+   "rate": 3.906,
+   "index": 1.03017369268,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-04-03",
+   "rate": 3.911,
+   "index": 1.030285466526,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-04-04",
+   "rate": 3.912,
+   "index": 1.030397395594,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-04-05",
+   "rate": 3.907,
+   "index": 1.030509365445,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-04-08",
+   "rate": 3.908,
+   "index": 1.030844882119,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-04-09",
+   "rate": 3.909,
+   "index": 1.030956786058,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-04-10",
+   "rate": 3.907,
+   "index": 1.031068730782,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-04-11",
+   "rate": 3.907,
+   "index": 1.03118063038,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-04-12",
+   "rate": 3.91,
+   "index": 1.031292542123,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-04-15",
+   "rate": 3.907,
+   "index": 1.031628571609,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-04-16",
+   "rate": 3.911,
+   "index": 1.031740531966,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-04-17",
+   "rate": 3.908,
+   "index": 1.031852619111,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-04-18",
+   "rate": 3.909,
+   "index": 1.031964632445,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-04-19",
+   "rate": 3.91,
+   "index": 1.032076686605,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-04-22",
+   "rate": 3.91,
+   "index": 1.032412971592,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-04-23",
+   "rate": 3.908,
+   "index": 1.032525103112,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-04-24",
+   "rate": 3.911,
+   "index": 1.032637189448,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-04-25",
+   "rate": 3.909,
+   "index": 1.032749374005,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-04-26",
+   "rate": 3.907,
+   "index": 1.032861513374,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-04-29",
+   "rate": 3.906,
+   "index": 1.033197795869,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-04-30",
+   "rate": 3.889,
+   "index": 1.033309897829,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-05-02",
+   "rate": 3.91,
+   "index": 1.033533150174,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-05-03",
+   "rate": 3.908,
+   "index": 1.033645403357,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-05-06",
+   "rate": 3.909,
+   "index": 1.03398202721,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-05-07",
+   "rate": 3.906,
+   "index": 1.034094300425,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-05-08",
+   "rate": 3.905,
+   "index": 1.034206499657,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-05-09",
+   "rate": 3.901,
+   "index": 1.034318682334,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-05-10",
+   "rate": 3.906,
+   "index": 1.034430762256,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-05-13",
+   "rate": 3.907,
+   "index": 1.034767469469,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-05-14",
+   "rate": 3.907,
+   "index": 1.034879770483,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-05-15",
+   "rate": 3.908,
+   "index": 1.034992083685,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-05-16",
+   "rate": 3.904,
+   "index": 1.035104437825,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-05-17",
+   "rate": 3.901,
+   "index": 1.035216689151,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-05-20",
+   "rate": 3.904,
+   "index": 1.035553220843,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-05-21",
+   "rate": 3.912,
+   "index": 1.035665520837,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-05-22",
+   "rate": 3.91,
+   "index": 1.035778063157,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-05-23",
+   "rate": 3.912,
+   "index": 1.035890560163,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-05-24",
+   "rate": 3.91,
+   "index": 1.036003126937,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-05-27",
+   "rate": 3.911,
+   "index": 1.03634069129,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-05-28",
+   "rate": 3.909,
+   "index": 1.036453278191,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-05-29",
+   "rate": 3.909,
+   "index": 1.036565819743,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-05-30",
+   "rate": 3.91,
+   "index": 1.036678373515,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-05-31",
+   "rate": 3.892,
+   "index": 1.036790968305,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-06-03",
+   "rate": 3.913,
+   "index": 1.037127234175,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-06-04",
+   "rate": 3.911,
+   "index": 1.037239964144,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-06-05",
+   "rate": 3.913,
+   "index": 1.037352648741,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-06-06",
+   "rate": 3.911,
+   "index": 1.037465403211,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-06-07",
+   "rate": 3.912,
+   "index": 1.0375781123,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-06-10",
+   "rate": 3.912,
+   "index": 1.037916362764,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-06-11",
+   "rate": 3.909,
+   "index": 1.038029149676,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-06-12",
+   "rate": 3.662,
+   "index": 1.038141862341,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-06-13",
+   "rate": 3.661,
+   "index": 1.038247464438,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-06-14",
+   "rate": 3.662,
+   "index": 1.038353048437,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-06-17",
+   "rate": 3.662,
+   "index": 1.038669919176,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-06-18",
+   "rate": 3.666,
+   "index": 1.038775574988,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-06-19",
+   "rate": 3.663,
+   "index": 1.038881356967,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-06-20",
+   "rate": 3.663,
+   "index": 1.038987063145,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-06-21",
+   "rate": 3.664,
+   "index": 1.039092780079,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-06-24",
+   "rate": 3.663,
+   "index": 1.039410049741,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-06-25",
+   "rate": 3.663,
+   "index": 1.039515809714,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-06-26",
+   "rate": 3.661,
+   "index": 1.039621580447,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-06-27",
+   "rate": 3.662,
+   "index": 1.039727304187,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-06-28",
+   "rate": 3.656,
+   "index": 1.039833067558,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-07-01",
+   "rate": 3.665,
+   "index": 1.040149870033,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-07-02",
+   "rate": 3.662,
+   "index": 1.040255763068,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-07-03",
+   "rate": 3.663,
+   "index": 1.040361580196,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-07-04",
+   "rate": 3.663,
+   "index": 1.040467436987,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-07-05",
+   "rate": 3.663,
+   "index": 1.040573304549,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-07-08",
+   "rate": 3.662,
+   "index": 1.04089093955,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-07-09",
+   "rate": 3.662,
+   "index": 1.040996821289,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-07-10",
+   "rate": 3.663,
+   "index": 1.041102713799,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-07-11",
+   "rate": 3.662,
+   "index": 1.041208646001,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-07-12",
+   "rate": 3.661,
+   "index": 1.041314560058,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-07-15",
+   "rate": 3.661,
+   "index": 1.041632247775,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-07-16",
+   "rate": 3.662,
+   "index": 1.041738175988,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-07-17",
+   "rate": 3.662,
+   "index": 1.04184414391,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-07-18",
+   "rate": 3.663,
+   "index": 1.041950122611,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-07-19",
+   "rate": 3.663,
+   "index": 1.042056141036,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-07-22",
+   "rate": 3.664,
+   "index": 1.042374228673,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-07-23",
+   "rate": 3.665,
+   "index": 1.042480319206,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-07-24",
+   "rate": 3.665,
+   "index": 1.042586449494,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-07-25",
+   "rate": 3.665,
+   "index": 1.042692590587,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-07-26",
+   "rate": 3.663,
+   "index": 1.042798742485,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-07-29",
+   "rate": 3.663,
+   "index": 1.043117056801,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-07-30",
+   "rate": 3.665,
+   "index": 1.043223193962,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-07-31",
+   "rate": 3.653,
+   "index": 1.043329399879,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-08-01",
+   "rate": 3.664,
+   "index": 1.043435268831,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-08-02",
+   "rate": 3.664,
+   "index": 1.043541467354,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-08-05",
+   "rate": 3.664,
+   "index": 1.043860095349,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-08-06",
+   "rate": 3.663,
+   "index": 1.04396633711,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-08-07",
+   "rate": 3.663,
+   "index": 1.044072560685,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-08-08",
+   "rate": 3.665,
+   "index": 1.044178795068,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-08-09",
+   "rate": 3.663,
+   "index": 1.04428509827,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-08-12",
+   "rate": 3.664,
+   "index": 1.044603866296,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-08-13",
+   "rate": 3.664,
+   "index": 1.044710183756,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-08-14",
+   "rate": 3.662,
+   "index": 1.044816512037,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-08-15",
+   "rate": 3.662,
+   "index": 1.044922793095,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-08-16",
+   "rate": 3.664,
+   "index": 1.045029084963,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-08-19",
+   "rate": 3.664,
+   "index": 1.045348167177,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-08-20",
+   "rate": 3.664,
+   "index": 1.045454560391,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-08-21",
+   "rate": 3.663,
+   "index": 1.045560964433,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-08-22",
+   "rate": 3.664,
+   "index": 1.045667350261,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-08-23",
+   "rate": 3.664,
+   "index": 1.04577377596,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-08-26",
+   "rate": 3.665,
+   "index": 1.046093085553,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-08-27",
+   "rate": 3.665,
+   "index": 1.046199583641,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-08-28",
+   "rate": 3.666,
+   "index": 1.046306092571,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-08-29",
+   "rate": 3.664,
+   "index": 1.046412641408,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-08-30",
+   "rate": 3.654,
+   "index": 1.046519142961,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-09-02",
+   "rate": 3.664,
+   "index": 1.04683780804,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-09-03",
+   "rate": 3.663,
+   "index": 1.046944352866,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-09-04",
+   "rate": 3.663,
+   "index": 1.047050879454,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-09-05",
+   "rate": 3.662,
+   "index": 1.047157416881,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-09-06",
+   "rate": 3.663,
+   "index": 1.04726393606,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-09-09",
+   "rate": 3.663,
+   "index": 1.047583613377,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-09-10",
+   "rate": 3.664,
+   "index": 1.047690205009,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-09-11",
+   "rate": 3.664,
+   "index": 1.04779683659,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-09-12",
+   "rate": 3.664,
+   "index": 1.047903479024,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-09-13",
+   "rate": 3.663,
+   "index": 1.048010132311,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-09-16",
+   "rate": 3.662,
+   "index": 1.048330037404,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-09-17",
+   "rate": 3.665,
+   "index": 1.048436675865,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-09-18",
+   "rate": 3.416,
+   "index": 1.048543412543,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-09-19",
+   "rate": 3.414,
+   "index": 1.048642907663,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-09-20",
+   "rate": 3.412,
+   "index": 1.048742353965,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-09-23",
+   "rate": 3.414,
+   "index": 1.049040546374,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-09-24",
+   "rate": 3.415,
+   "index": 1.049140030386,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-09-25",
+   "rate": 3.416,
+   "index": 1.049239552975,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-09-26",
+   "rate": 3.415,
+   "index": 1.049339114151,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-09-27",
+   "rate": 3.415,
+   "index": 1.049438655625,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-09-30",
+   "rate": 3.41,
+   "index": 1.049737308376,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-10-01",
+   "rate": 3.416,
+   "index": 1.049836741826,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-10-02",
+   "rate": 3.41,
+   "index": 1.049936359668,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-10-03",
+   "rate": 3.407,
+   "index": 1.050035811973,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-10-04",
+   "rate": 3.414,
+   "index": 1.050135186196,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-10-07",
+   "rate": 3.413,
+   "index": 1.050433949656,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-10-08",
+   "rate": 3.414,
+   "index": 1.050533536631,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-10-09",
+   "rate": 3.415,
+   "index": 1.050633162228,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-10-10",
+   "rate": 3.414,
+   "index": 1.050732826457,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-10-11",
+   "rate": 3.413,
+   "index": 1.050832470953,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-10-14",
+   "rate": 3.413,
+   "index": 1.051131345222,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-10-15",
+   "rate": 3.413,
+   "index": 1.051230998313,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-10-16",
+   "rate": 3.414,
+   "index": 1.051330660852,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-10-17",
+   "rate": 3.415,
+   "index": 1.051430362043,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-10-18",
+   "rate": 3.415,
+   "index": 1.051530101895,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-10-21",
+   "rate": 3.415,
+   "index": 1.051829349837,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-10-22",
+   "rate": 3.416,
+   "index": 1.051929127537,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-10-23",
+   "rate": 3.166,
+   "index": 1.052028943923,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-10-24",
+   "rate": 3.166,
+   "index": 1.052121464025,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-10-25",
+   "rate": 3.166,
+   "index": 1.052213992262,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-10-28",
+   "rate": 3.164,
+   "index": 1.052491601387,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-10-29",
+   "rate": 3.164,
+   "index": 1.052584103705,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-10-30",
+   "rate": 3.165,
+   "index": 1.052676614152,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-10-31",
+   "rate": 3.155,
+   "index": 1.052769161971,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-11-01",
+   "rate": 3.163,
+   "index": 1.05286142549,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-11-04",
+   "rate": 3.163,
+   "index": 1.053138942215,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-11-05",
+   "rate": 3.163,
+   "index": 1.053231472172,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-11-06",
+   "rate": 3.162,
+   "index": 1.05332401026,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-11-07",
+   "rate": 3.163,
+   "index": 1.053416527218,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-11-08",
+   "rate": 3.163,
+   "index": 1.053509081565,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-11-11",
+   "rate": 3.162,
+   "index": 1.053786769,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-11-12",
+   "rate": 3.163,
+   "index": 1.053879326605,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-11-13",
+   "rate": 3.164,
+   "index": 1.053971921614,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-11-14",
+   "rate": 3.165,
+   "index": 1.054064554035,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-11-15",
+   "rate": 3.165,
+   "index": 1.054157223877,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-11-18",
+   "rate": 3.165,
+   "index": 1.054435257845,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-11-19",
+   "rate": 3.166,
+   "index": 1.054527960278,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-11-20",
+   "rate": 3.167,
+   "index": 1.054620700153,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-11-21",
+   "rate": 3.167,
+   "index": 1.05471347748,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-11-22",
+   "rate": 3.168,
+   "index": 1.054806262968,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-11-25",
+   "rate": 3.167,
+   "index": 1.055084731822,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-11-26",
+   "rate": 3.165,
+   "index": 1.05517754997,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-11-27",
+   "rate": 3.165,
+   "index": 1.055270317663,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-11-28",
+   "rate": 3.164,
+   "index": 1.055363093512,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-11-29",
+   "rate": 3.163,
+   "index": 1.055455848202,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-12-02",
+   "rate": 3.165,
+   "index": 1.055734048772,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-12-03",
+   "rate": 3.164,
+   "index": 1.055826865391,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-12-04",
+   "rate": 3.165,
+   "index": 1.055919660841,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-12-05",
+   "rate": 3.165,
+   "index": 1.056012493778,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-12-06",
+   "rate": 3.165,
+   "index": 1.056105334876,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-12-09",
+   "rate": 3.164,
+   "index": 1.056383882658,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-12-10",
+   "rate": 3.163,
+   "index": 1.056476727064,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-12-11",
+   "rate": 3.164,
+   "index": 1.056569550283,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-12-12",
+   "rate": 3.164,
+   "index": 1.056662411007,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-12-13",
+   "rate": 3.167,
+   "index": 1.056755279892,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-12-16",
+   "rate": 3.165,
+   "index": 1.057034175223,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-12-17",
+   "rate": 3.164,
+   "index": 1.057127106144,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-12-18",
+   "rate": 2.917,
+   "index": 1.057220015871,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-12-19",
+   "rate": 2.919,
+   "index": 1.057305680059,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-12-20",
+   "rate": 2.916,
+   "index": 1.057391409928,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-12-23",
+   "rate": 2.911,
+   "index": 1.057648356041,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-12-24",
+   "rate": 2.909,
+   "index": 1.057733878662,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-12-27",
+   "rate": 2.916,
+   "index": 1.057990290983,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-12-30",
+   "rate": 2.915,
+   "index": 1.058247382624,
+   "index_synthetic": true
+  },
+  {
+   "date": "2024-12-31",
+   "rate": 2.905,
+   "index": 1.058333071266,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-01-02",
+   "rate": 2.92,
+   "index": 1.058503874465,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-01-03",
+   "rate": 2.919,
+   "index": 1.05858973089,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-01-06",
+   "rate": 2.917,
+   "index": 1.058847232842,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-01-07",
+   "rate": 2.918,
+   "index": 1.05893302888,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-01-08",
+   "rate": 2.917,
+   "index": 1.059018861285,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-01-09",
+   "rate": 2.92,
+   "index": 1.05910467123,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-01-10",
+   "rate": 2.917,
+   "index": 1.059190576387,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-01-13",
+   "rate": 2.918,
+   "index": 1.059448047963,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-01-14",
+   "rate": 2.919,
+   "index": 1.059533922113,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-01-15",
+   "rate": 2.92,
+   "index": 1.059619832655,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-01-16",
+   "rate": 2.92,
+   "index": 1.059705779597,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-01-17",
+   "rate": 2.92,
+   "index": 1.05979173351,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-01-20",
+   "rate": 2.919,
+   "index": 1.060049616165,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-01-21",
+   "rate": 2.921,
+   "index": 1.060135568522,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-01-22",
+   "rate": 2.92,
+   "index": 1.060221586744,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-01-23",
+   "rate": 2.922,
+   "index": 1.060307582495,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-01-24",
+   "rate": 2.921,
+   "index": 1.060393644127,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-01-27",
+   "rate": 2.921,
+   "index": 1.060651761613,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-01-28",
+   "rate": 2.921,
+   "index": 1.060737821719,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-01-29",
+   "rate": 2.923,
+   "index": 1.060823888807,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-01-30",
+   "rate": 2.923,
+   "index": 1.060910021813,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-01-31",
+   "rate": 2.912,
+   "index": 1.060996161813,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-02-03",
+   "rate": 2.918,
+   "index": 1.061253630215,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-02-04",
+   "rate": 2.917,
+   "index": 1.061339650717,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-02-05",
+   "rate": 2.666,
+   "index": 1.061425648711,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-02-06",
+   "rate": 2.669,
+   "index": 1.061504253177,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-02-07",
+   "rate": 2.665,
+   "index": 1.061582951923,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-02-10",
+   "rate": 2.664,
+   "index": 1.061818711803,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-02-11",
+   "rate": 2.666,
+   "index": 1.061897286388,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-02-12",
+   "rate": 2.665,
+   "index": 1.061975925782,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-02-13",
+   "rate": 2.667,
+   "index": 1.062054541499,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-02-14",
+   "rate": 2.666,
+   "index": 1.06213322204,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-02-17",
+   "rate": 2.665,
+   "index": 1.062369192637,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-02-18",
+   "rate": 2.666,
+   "index": 1.062447837468,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-02-19",
+   "rate": 2.665,
+   "index": 1.062526517633,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-02-20",
+   "rate": 2.667,
+   "index": 1.06260517411,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-02-21",
+   "rate": 2.666,
+   "index": 1.062683895443,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-02-24",
+   "rate": 2.666,
+   "index": 1.062919988382,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-02-25",
+   "rate": 2.666,
+   "index": 1.062998703512,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-02-26",
+   "rate": 2.665,
+   "index": 1.063077424472,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-02-27",
+   "rate": 2.666,
+   "index": 1.063156121731,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-02-28",
+   "rate": 2.658,
+   "index": 1.063234854348,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-03-03",
+   "rate": 2.663,
+   "index": 1.063470360868,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-03-04",
+   "rate": 2.664,
+   "index": 1.063549028134,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-03-05",
+   "rate": 2.664,
+   "index": 1.063627730762,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-03-06",
+   "rate": 2.666,
+   "index": 1.063706439214,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-03-07",
+   "rate": 2.665,
+   "index": 1.063785212586,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-03-10",
+   "rate": 2.663,
+   "index": 1.064021461552,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-03-11",
+   "rate": 2.663,
+   "index": 1.064100169584,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-03-12",
+   "rate": 2.412,
+   "index": 1.064178883438,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-03-13",
+   "rate": 2.413,
+   "index": 1.064250183423,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-03-14",
+   "rate": 2.417,
+   "index": 1.064321517748,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-03-17",
+   "rate": 2.417,
+   "index": 1.06453588984,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-03-18",
+   "rate": 2.417,
+   "index": 1.064607361597,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-03-19",
+   "rate": 2.416,
+   "index": 1.064678838153,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-03-20",
+   "rate": 2.417,
+   "index": 1.064750289932,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-03-21",
+   "rate": 2.417,
+   "index": 1.064821776084,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-03-24",
+   "rate": 2.418,
+   "index": 1.065036248936,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-03-25",
+   "rate": 2.418,
+   "index": 1.065107783871,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-03-26",
+   "rate": 2.417,
+   "index": 1.065179323611,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-03-27",
+   "rate": 2.417,
+   "index": 1.065250838567,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-03-28",
+   "rate": 2.417,
+   "index": 1.065322358325,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-03-31",
+   "rate": 2.415,
+   "index": 1.065536932003,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-04-01",
+   "rate": 2.42,
+   "index": 1.065608411772,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-04-02",
+   "rate": 2.417,
+   "index": 1.065680044338,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-04-03",
+   "rate": 2.416,
+   "index": 1.065751592912,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-04-04",
+   "rate": 2.415,
+   "index": 1.065823116685,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-04-07",
+   "rate": 2.414,
+   "index": 1.066037613587,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-04-08",
+   "rate": 2.415,
+   "index": 1.066109097332,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-04-09",
+   "rate": 2.415,
+   "index": 1.066180615484,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-04-10",
+   "rate": 2.416,
+   "index": 1.066252138433,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-04-11",
+   "rate": 2.416,
+   "index": 1.066323695799,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-04-14",
+   "rate": 2.417,
+   "index": 1.066538382303,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-04-15",
+   "rate": 2.416,
+   "index": 1.066609988505,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-04-16",
+   "rate": 2.418,
+   "index": 1.066681569887,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-04-17",
+   "rate": 2.417,
+   "index": 1.066753215332,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-04-22",
+   "rate": 2.417,
+   "index": 1.06711131846,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-04-23",
+   "rate": 2.167,
+   "index": 1.067182963128,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-04-24",
+   "rate": 2.169,
+   "index": 1.067247201614,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-04-25",
+   "rate": 2.167,
+   "index": 1.067311503258,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-04-28",
+   "rate": 2.167,
+   "index": 1.067504241927,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-04-29",
+   "rate": 2.167,
+   "index": 1.067568499752,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-04-30",
+   "rate": 2.156,
+   "index": 1.067632761444,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-05-02",
+   "rate": 2.168,
+   "index": 1.067760640124,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-05-05",
+   "rate": 2.167,
+   "index": 1.06795354888,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-05-06",
+   "rate": 2.167,
+   "index": 1.06801783375,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-05-07",
+   "rate": 2.169,
+   "index": 1.06808212249,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-05-08",
+   "rate": 2.171,
+   "index": 1.068146474438,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-05-09",
+   "rate": 2.169,
+   "index": 1.068210889605,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-05-12",
+   "rate": 2.17,
+   "index": 1.068403968723,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-05-13",
+   "rate": 2.172,
+   "index": 1.06846836974,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-05-14",
+   "rate": 2.172,
+   "index": 1.068532833998,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-05-15",
+   "rate": 2.172,
+   "index": 1.068597302146,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-05-16",
+   "rate": 2.17,
+   "index": 1.068661774183,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-05-19",
+   "rate": 2.171,
+   "index": 1.068855023854,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-05-20",
+   "rate": 2.172,
+   "index": 1.06891948175,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-05-21",
+   "rate": 2.169,
+   "index": 1.068983973226,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-05-22",
+   "rate": 2.173,
+   "index": 1.06904837951,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-05-23",
+   "rate": 2.17,
+   "index": 1.069112908458,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-05-26",
+   "rate": 2.168,
+   "index": 1.069306239709,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-05-27",
+   "rate": 2.172,
+   "index": 1.069370635707,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-05-28",
+   "rate": 2.167,
+   "index": 1.069435154402,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-05-29",
+   "rate": 2.161,
+   "index": 1.069499528457,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-05-30",
+   "rate": 2.161,
+   "index": 1.069563728137,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-06-02",
+   "rate": 2.172,
+   "index": 1.069756338738,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-06-03",
+   "rate": 2.172,
+   "index": 1.069820880704,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-06-04",
+   "rate": 2.173,
+   "index": 1.069885426564,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-06-05",
+   "rate": 2.174,
+   "index": 1.069950006037,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-06-06",
+   "rate": 2.173,
+   "index": 1.070014619129,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-06-09",
+   "rate": 2.17,
+   "index": 1.070208380943,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-06-10",
+   "rate": 2.174,
+   "index": 1.070272890726,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-06-11",
+   "rate": 1.924,
+   "index": 1.070337523317,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-06-12",
+   "rate": 1.923,
+   "index": 1.070394726911,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-06-13",
+   "rate": 1.925,
+   "index": 1.070451903829,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-06-16",
+   "rate": 1.924,
+   "index": 1.070623622155,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-06-17",
+   "rate": 1.924,
+   "index": 1.07068084104,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-06-18",
+   "rate": 1.922,
+   "index": 1.070738062983,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-06-19",
+   "rate": 1.917,
+   "index": 1.070795228498,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-06-20",
+   "rate": 1.923,
+   "index": 1.070852248344,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-06-23",
+   "rate": 1.925,
+   "index": 1.071023852417,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-06-24",
+   "rate": 1.926,
+   "index": 1.071081122443,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-06-25",
+   "rate": 1.925,
+   "index": 1.071138425283,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-06-26",
+   "rate": 1.929,
+   "index": 1.071195701434,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-06-27",
+   "rate": 1.928,
+   "index": 1.071253099671,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-06-30",
+   "rate": 1.921,
+   "index": 1.071425214335,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-07-01",
+   "rate": 1.921,
+   "index": 1.071482386775,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-07-02",
+   "rate": 1.923,
+   "index": 1.071539562266,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-07-03",
+   "rate": 1.922,
+   "index": 1.071596800338,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-07-04",
+   "rate": 1.92,
+   "index": 1.0716540117,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-07-07",
+   "rate": 1.92,
+   "index": 1.071825476342,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-07-08",
+   "rate": 1.919,
+   "index": 1.071882640368,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-07-09",
+   "rate": 1.919,
+   "index": 1.071939777667,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-07-10",
+   "rate": 1.921,
+   "index": 1.071996918013,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-07-11",
+   "rate": 1.923,
+   "index": 1.072054120959,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-07-14",
+   "rate": 1.923,
+   "index": 1.072225917632,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-07-15",
+   "rate": 1.922,
+   "index": 1.072283192366,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-07-16",
+   "rate": 1.923,
+   "index": 1.072340440375,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-07-17",
+   "rate": 1.925,
+   "index": 1.072397721227,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-07-18",
+   "rate": 1.923,
+   "index": 1.072455064716,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-07-21",
+   "rate": 1.924,
+   "index": 1.07262692564,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-07-22",
+   "rate": 1.923,
+   "index": 1.07268425159,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-07-23",
+   "rate": 1.924,
+   "index": 1.072741550807,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-07-24",
+   "rate": 1.924,
+   "index": 1.072798882883,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-07-25",
+   "rate": 1.925,
+   "index": 1.072856218024,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-07-28",
+   "rate": 1.923,
+   "index": 1.073028322042,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-07-29",
+   "rate": 1.923,
+   "index": 1.073085639638,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-07-30",
+   "rate": 1.924,
+   "index": 1.073142960296,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-07-31",
+   "rate": 1.919,
+   "index": 1.073200313825,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-08-01",
+   "rate": 1.927,
+   "index": 1.073257521364,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-08-04",
+   "rate": 1.925,
+   "index": 1.073429868635,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-08-05",
+   "rate": 1.924,
+   "index": 1.073487267315,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-08-06",
+   "rate": 1.922,
+   "index": 1.073544639246,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-08-07",
+   "rate": 1.923,
+   "index": 1.073601954601,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-08-08",
+   "rate": 1.922,
+   "index": 1.073659302839,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-08-11",
+   "rate": 1.918,
+   "index": 1.073831267271,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-08-12",
+   "rate": 1.922,
+   "index": 1.073888478614,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-08-13",
+   "rate": 1.923,
+   "index": 1.073945812327,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-08-14",
+   "rate": 1.926,
+   "index": 1.074003178932,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-08-15",
+   "rate": 1.924,
+   "index": 1.074060638102,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-08-18",
+   "rate": 1.924,
+   "index": 1.074232845825,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-08-19",
+   "rate": 1.925,
+   "index": 1.074290257602,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-08-20",
+   "rate": 1.926,
+   "index": 1.07434770229,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-08-21",
+   "rate": 1.926,
+   "index": 1.074405179892,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-08-22",
+   "rate": 1.926,
+   "index": 1.074462660569,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-08-25",
+   "rate": 1.925,
+   "index": 1.074635111826,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-08-26",
+   "rate": 1.926,
+   "index": 1.074692574954,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-08-27",
+   "rate": 1.925,
+   "index": 1.074750071006,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-08-28",
+   "rate": 1.925,
+   "index": 1.074807540281,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-08-29",
+   "rate": 1.92,
+   "index": 1.074865012629,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-09-01",
+   "rate": 1.925,
+   "index": 1.075036991031,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-09-02",
+   "rate": 1.922,
+   "index": 1.075094475648,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-09-03",
+   "rate": 1.923,
+   "index": 1.075151873747,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-09-04",
+   "rate": 1.925,
+   "index": 1.075209304776,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-09-05",
+   "rate": 1.923,
+   "index": 1.075266798607,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-09-08",
+   "rate": 1.922,
+   "index": 1.075439110112,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-09-09",
+   "rate": 1.923,
+   "index": 1.075496526611,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-09-10",
+   "rate": 1.922,
+   "index": 1.07555397605,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-09-11",
+   "rate": 1.925,
+   "index": 1.075611398682,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-09-12",
+   "rate": 1.925,
+   "index": 1.075668914014,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-09-15",
+   "rate": 1.926,
+   "index": 1.075841469235,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-09-16",
+   "rate": 1.926,
+   "index": 1.075899026754,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-09-17",
+   "rate": 1.927,
+   "index": 1.075956587352,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-09-18",
+   "rate": 1.926,
+   "index": 1.076014180917,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-09-19",
+   "rate": 1.925,
+   "index": 1.076071747676,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-09-22",
+   "rate": 1.925,
+   "index": 1.076244367518,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-09-23",
+   "rate": 1.927,
+   "index": 1.076301916696,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-09-24",
+   "rate": 1.928,
+   "index": 1.076359528746,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-09-25",
+   "rate": 1.927,
+   "index": 1.076417173779,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-09-26",
+   "rate": 1.926,
+   "index": 1.076474791998,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-09-29",
+   "rate": 1.926,
+   "index": 1.076647566202,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-09-30",
+   "rate": 1.916,
+   "index": 1.076705166847,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-10-01",
+   "rate": 1.927,
+   "index": 1.076762471489,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-10-02",
+   "rate": 1.923,
+   "index": 1.076820108191,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-10-03",
+   "rate": 1.921,
+   "index": 1.076877628332,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-10-06",
+   "rate": 1.925,
+   "index": 1.077050018492,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-10-07",
+   "rate": 1.926,
+   "index": 1.07710761075,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-10-08",
+   "rate": 1.924,
+   "index": 1.077165236007,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-10-09",
+   "rate": 1.927,
+   "index": 1.077222804505,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-10-10",
+   "rate": 1.926,
+   "index": 1.077280465848,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-10-13",
+   "rate": 1.926,
+   "index": 1.077453369362,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-10-14",
+   "rate": 1.927,
+   "index": 1.077511013118,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-10-15",
+   "rate": 1.928,
+   "index": 1.077568689888,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-10-16",
+   "rate": 1.928,
+   "index": 1.077626399678,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-10-17",
+   "rate": 1.928,
+   "index": 1.077684112558,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-10-20",
+   "rate": 1.927,
+   "index": 1.077857260472,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-10-21",
+   "rate": 1.928,
+   "index": 1.077914955776,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-10-22",
+   "rate": 1.927,
+   "index": 1.07797268411,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-10-23",
+   "rate": 1.929,
+   "index": 1.078030385593,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-10-24",
+   "rate": 1.928,
+   "index": 1.078088150054,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-10-27",
+   "rate": 1.929,
+   "index": 1.078261362884,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-10-28",
+   "rate": 1.93,
+   "index": 1.078319139722,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-10-29",
+   "rate": 1.931,
+   "index": 1.078376949609,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-10-30",
+   "rate": 1.931,
+   "index": 1.07843479255,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-10-31",
+   "rate": 1.921,
+   "index": 1.078492638594,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-11-03",
+   "rate": 1.932,
+   "index": 1.078665287291,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-11-04",
+   "rate": 1.931,
+   "index": 1.078723175661,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-11-05",
+   "rate": 1.929,
+   "index": 1.078781037174,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-11-06",
+   "rate": 1.93,
+   "index": 1.078838841858,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-11-07",
+   "rate": 1.932,
+   "index": 1.078896679607,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-11-10",
+   "rate": 1.931,
+   "index": 1.079070381972,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-11-11",
+   "rate": 1.93,
+   "index": 1.079128262109,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-11-12",
+   "rate": 1.93,
+   "index": 1.079186115374,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-11-13",
+   "rate": 1.93,
+   "index": 1.07924397174,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-11-14",
+   "rate": 1.931,
+   "index": 1.079301831209,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-11-17",
+   "rate": 1.929,
+   "index": 1.079475508862,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-11-18",
+   "rate": 1.93,
+   "index": 1.079533350758,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-11-19",
+   "rate": 1.929,
+   "index": 1.07959122574,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-11-20",
+   "rate": 1.929,
+   "index": 1.079649073837,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-11-21",
+   "rate": 1.926,
+   "index": 1.079706925033,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-11-24",
+   "rate": 1.924,
+   "index": 1.079880217995,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-11-25",
+   "rate": 1.926,
+   "index": 1.079937931593,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-11-26",
+   "rate": 1.928,
+   "index": 1.079995708272,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-11-27",
+   "rate": 1.927,
+   "index": 1.080053548042,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-11-28",
+   "rate": 1.925,
+   "index": 1.080111360909,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-12-01",
+   "rate": 1.93,
+   "index": 1.080284628773,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-12-02",
+   "rate": 1.929,
+   "index": 1.080342544032,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-12-03",
+   "rate": 1.926,
+   "index": 1.080400432387,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-12-04",
+   "rate": 1.929,
+   "index": 1.08045823381,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-12-05",
+   "rate": 1.929,
+   "index": 1.080516128364,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-12-08",
+   "rate": 1.93,
+   "index": 1.080689821331,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-12-09",
+   "rate": 1.929,
+   "index": 1.080747758313,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-12-10",
+   "rate": 1.929,
+   "index": 1.080805668381,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-12-11",
+   "rate": 1.93,
+   "index": 1.080863581551,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-12-12",
+   "rate": 1.932,
+   "index": 1.080921527849,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-12-15",
+   "rate": 1.93,
+   "index": 1.081095556215,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-12-16",
+   "rate": 1.932,
+   "index": 1.081153514949,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-12-17",
+   "rate": 1.932,
+   "index": 1.081211536854,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-12-18",
+   "rate": 1.931,
+   "index": 1.081269561873,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-12-19",
+   "rate": 1.933,
+   "index": 1.081327559971,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-12-22",
+   "rate": 1.932,
+   "index": 1.081501743819,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-12-23",
+   "rate": 1.925,
+   "index": 1.081559784412,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-12-24",
+   "rate": 1.926,
+   "index": 1.081617617817,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-12-29",
+   "rate": 1.934,
+   "index": 1.08190695053,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-12-30",
+   "rate": 1.93,
+   "index": 1.081965072976,
+   "index_synthetic": true
+  },
+  {
+   "date": "2025-12-31",
+   "rate": 1.921,
+   "index": 1.082023078326,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-01-02",
+   "rate": 1.936,
+   "index": 1.082138554233,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-01-05",
+   "rate": 1.933,
+   "index": 1.082313139253,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-01-06",
+   "rate": 1.933,
+   "index": 1.082371253456,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-01-07",
+   "rate": 1.933,
+   "index": 1.082429370779,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-01-08",
+   "rate": 1.933,
+   "index": 1.082487491223,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-01-09",
+   "rate": 1.932,
+   "index": 1.082545614787,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-01-12",
+   "rate": 1.931,
+   "index": 1.082719904631,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-01-13",
+   "rate": 1.93,
+   "index": 1.082777980524,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-01-14",
+   "rate": 1.931,
+   "index": 1.082836029454,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-01-15",
+   "rate": 1.93,
+   "index": 1.082894111576,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-01-16",
+   "rate": 1.93,
+   "index": 1.082952166732,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-01-19",
+   "rate": 1.929,
+   "index": 1.083126341539,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-01-20",
+   "rate": 1.932,
+   "index": 1.083184379059,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-01-21",
+   "rate": 1.932,
+   "index": 1.083242509954,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-01-22",
+   "rate": 1.933,
+   "index": 1.083300643969,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-01-23",
+   "rate": 1.933,
+   "index": 1.083358811195,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-01-26",
+   "rate": 1.934,
+   "index": 1.083533322243,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-01-27",
+   "rate": 1.934,
+   "index": 1.083591532061,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-01-28",
+   "rate": 1.933,
+   "index": 1.083649745006,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-01-29",
+   "rate": 1.933,
+   "index": 1.083707930977,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-01-30",
+   "rate": 1.926,
+   "index": 1.083766120073,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-02-02",
+   "rate": 1.933,
+   "index": 1.083940064535,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-02-03",
+   "rate": 1.931,
+   "index": 1.083998266095,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-02-04",
+   "rate": 1.932,
+   "index": 1.084056410557,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-02-05",
+   "rate": 1.931,
+   "index": 1.084114588251,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-02-06",
+   "rate": 1.93,
+   "index": 1.084172738953,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-02-09",
+   "rate": 1.93,
+   "index": 1.084347110069,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-02-10",
+   "rate": 1.929,
+   "index": 1.084405243122,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-02-11",
+   "rate": 1.93,
+   "index": 1.08446334917,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-02-12",
+   "rate": 1.931,
+   "index": 1.084521488455,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-02-13",
+   "rate": 1.93,
+   "index": 1.084579660982,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-02-16",
+   "rate": 1.929,
+   "index": 1.084754097545,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-02-17",
+   "rate": 1.931,
+   "index": 1.084812222285,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-02-18",
+   "rate": 1.931,
+   "index": 1.084870410407,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-02-19",
+   "rate": 1.933,
+   "index": 1.084928601651,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-02-20",
+   "rate": 1.932,
+   "index": 1.084986856289,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-02-23",
+   "rate": 1.931,
+   "index": 1.085161539173,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-02-24",
+   "rate": 1.932,
+   "index": 1.085219746032,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-02-25",
+   "rate": 1.933,
+   "index": 1.085277986159,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-02-26",
+   "rate": 1.935,
+   "index": 1.085336259557,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-02-27",
+   "rate": 1.93,
+   "index": 1.085394596381,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-03-02",
+   "rate": 1.934,
+   "index": 1.085569164012,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-03-03",
+   "rate": 1.934,
+   "index": 1.0856274832,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-03-04",
+   "rate": 1.934,
+   "index": 1.085685805521,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-03-05",
+   "rate": 1.935,
+   "index": 1.085744130975,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-03-06",
+   "rate": 1.933,
+   "index": 1.085802489722,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-03-09",
+   "rate": 1.932,
+   "index": 1.085977394406,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-03-10",
+   "rate": 1.933,
+   "index": 1.086035675193,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-03-11",
+   "rate": 1.931,
+   "index": 1.086093989275,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-03-12",
+   "rate": 1.932,
+   "index": 1.08615224615,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-03-13",
+   "rate": 1.93,
+   "index": 1.086210536321,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-03-16",
+   "rate": 1.932,
+   "index": 1.086385235182,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-03-17",
+   "rate": 1.932,
+   "index": 1.086443537856,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-03-18",
+   "rate": 1.933,
+   "index": 1.086501843659,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-03-19",
+   "rate": 1.934,
+   "index": 1.086560182772,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-03-20",
+   "rate": 1.932,
+   "index": 1.0866185552,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-03-23",
+   "rate": 1.932,
+   "index": 1.086793500787,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-03-24",
+   "rate": 1.932,
+   "index": 1.086851825372,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-03-25",
+   "rate": 1.93,
+   "index": 1.086910153086,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-03-26",
+   "rate": 1.93,
+   "index": 1.086968423547,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-03-27",
+   "rate": 1.93,
+   "index": 1.087026697132,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-03-30",
+   "rate": 1.932,
+   "index": 1.08720152726,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-03-31",
+   "rate": 1.929,
+   "index": 1.087259873741,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-04-01",
+   "rate": 1.93,
+   "index": 1.08731813275,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-04-02",
+   "rate": 1.931,
+   "index": 1.087376425083,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-04-07",
+   "rate": 1.931,
+   "index": 1.087668053399,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-04-08",
+   "rate": 1.931,
+   "index": 1.087726394705,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-04-09",
+   "rate": 1.931,
+   "index": 1.08778473914,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-04-10",
+   "rate": 1.932,
+   "index": 1.087843086705,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-04-13",
+   "rate": 1.932,
+   "index": 1.088018229442,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-04-14",
+   "rate": 1.932,
+   "index": 1.088076619754,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-04-15",
+   "rate": 1.932,
+   "index": 1.088135013199,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-04-16",
+   "rate": 1.932,
+   "index": 1.088193409778,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-04-17",
+   "rate": 1.932,
+   "index": 1.088251809491,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-04-20",
+   "rate": 1.931,
+   "index": 1.088427018032,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-04-21",
+   "rate": 1.932,
+   "index": 1.088485400048,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-04-22",
+   "rate": 1.931,
+   "index": 1.088543815431,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-04-23",
+   "rate": 1.933,
+   "index": 1.088602203712,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-04-24",
+   "rate": 1.933,
+   "index": 1.088660655603,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-04-27",
+   "rate": 1.932,
+   "index": 1.08883602069,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-04-28",
+   "rate": 1.932,
+   "index": 1.08889445489,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-04-29",
+   "rate": 1.932,
+   "index": 1.088952892225,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-04-30",
+   "rate": 1.93,
+   "index": 1.089011332697,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-05-04",
+   "rate": 1.932,
+   "index": 1.089244865127,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-05-05",
+   "rate": 1.932,
+   "index": 1.089303321269,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-05-06",
+   "rate": 1.931,
+   "index": 1.089361780547,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-05-07",
+   "rate": 1.93,
+   "index": 1.089420212702,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-05-08",
+   "rate": 1.929,
+   "index": 1.08947861773,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-05-11",
+   "rate": 1.931,
+   "index": 1.089653751418,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-05-12",
+   "rate": 1.929,
+   "index": 1.089712199235,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-05-13",
+   "rate": 1.928,
+   "index": 1.089770589647,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-05-14",
+   "rate": 1.93,
+   "index": 1.089828952916,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-05-15",
+   "rate": 1.931,
+   "index": 1.089887379857,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-05-18",
+   "rate": 1.931,
+   "index": 1.090062760901,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-05-19",
+   "rate": 1.929,
+   "index": 1.090121230657,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-05-20",
+   "rate": 1.931,
+   "index": 1.090179642986,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-05-21",
+   "rate": 1.932,
+   "index": 1.090238119011,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-05-22",
+   "rate": 1.929,
+   "index": 1.090296628456,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-05-25",
+   "rate": 1.931,
+   "index": 1.090471893639,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-05-26",
+   "rate": 1.932,
+   "index": 1.09053038534,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-05-27",
+   "rate": 1.932,
+   "index": 1.090588910471,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-05-28",
+   "rate": 1.933,
+   "index": 1.090647438742,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-05-29",
+   "rate": 1.93,
+   "index": 1.090706000451,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-06-01",
+   "rate": 1.931,
+   "index": 1.090881422332,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-06-02",
+   "rate": 1.932,
+   "index": 1.090939936,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-06-03",
+   "rate": 1.931,
+   "index": 1.09099848311,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-06-04",
+   "rate": 1.933,
+   "index": 1.091057003056,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-06-05",
+   "rate": 1.931,
+   "index": 1.091115586756,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-06-08",
+   "rate": 1.93,
+   "index": 1.091291165439,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-06-09",
+   "rate": 1.93,
+   "index": 1.091349670771,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-06-10",
+   "rate": 1.93,
+   "index": 1.091408179239,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-06-11",
+   "rate": 1.931,
+   "index": 1.091466690845,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-06-12",
+   "rate": 1.931,
+   "index": 1.091525235905,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-06-15",
+   "rate": 1.931,
+   "index": 1.091700880508,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-06-16",
+   "rate": 1.931,
+   "index": 1.09175943813,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-06-17",
+   "rate": 2.182,
+   "index": 1.091817998893,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-06-18",
+   "rate": 2.18,
+   "index": 1.091884175195,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-06-19",
+   "rate": 2.181,
+   "index": 1.091950294848,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-06-22",
+   "rate": 2.181,
+   "index": 1.092148756814,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-06-23",
+   "rate": 2.182,
+   "index": 1.092214922826,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-06-24",
+   "rate": 2.181,
+   "index": 1.092281123186,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-06-25",
+   "rate": 2.183,
+   "index": 1.092347297218,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-06-26",
+   "rate": 2.181,
+   "index": 1.092413535944,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-06-29",
+   "rate": 2.182,
+   "index": 1.092612082104,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-06-30",
+   "rate": 2.182,
+   "index": 1.092678306536,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-07-01",
+   "rate": 2.183,
+   "index": 1.092744534983,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-07-02",
+   "rate": 2.183,
+   "index": 1.092810797797,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-07-03",
+   "rate": 2.183,
+   "index": 1.09287706463,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-07-06",
+   "rate": 2.182,
+   "index": 1.093075877182,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-07-07",
+   "rate": 2.182,
+   "index": 1.093142129726,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-07-08",
+   "rate": 2.182,
+   "index": 1.093208386285,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-07-09",
+   "rate": 2.182,
+   "index": 1.09327464686,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-07-10",
+   "rate": 2.182,
+   "index": 1.093340911451,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-07-13",
+   "rate": 2.184,
+   "index": 1.093539717273,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-07-14",
+   "rate": 2.184,
+   "index": 1.093606058683,
+   "index_synthetic": true
+  },
+  {
+   "date": "2026-07-15",
+   "rate": 2.184,
+   "index": 1.093672404117,
+   "index_synthetic": true
+  }
+ ]
+}

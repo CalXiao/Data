@@ -1,0 +1,283 @@
+== RATES.FRA_OIS  AUD   n_tags=11 ==
+   example: RATES.FRA_OIS.AUD.07_DEC_2028Y
+   f2:    1 distinct -> ['AUD']
+   f3:   11 distinct -> ['07_DEC_2028Y', '07_SEP_2028Y', '08_JUN_2028Y', '08_MAR_2029Y', '09_DEC_2027Y', '09_MAR_2028Y', '09_SEP_2027Y', '10_DEC_2026Y', '10_JUN_2027Y', '10_SEP_2026Y', '11_MAR_2027Y']
+
+== RATES.FRA_OIS  CAD   n_tags=11 ==
+   example: RATES.FRA_OIS.CAD.13_DEC_2027Y
+   f2:    1 distinct -> ['CAD']
+   f3:   11 distinct -> ['13_DEC_2027Y', '13_MAR_2028Y', '13_SEP_2027Y', '14_DEC_2026Y', '14_JUN_2027Y', '14_SEP_2026Y', '15_MAR_2027Y', '18_DEC_2028Y', '18_SEP_2028Y', '19_JUN_2028Y', '19_MAR_2029Y']
+
+== RATES.FRA_OIS  EUR   n_tags=11 ==
+   example: RATES.FRA_OIS.EUR.15_DEC_2027Y
+   f2:    1 distinct -> ['EUR']
+   f3:   11 distinct -> ['15_DEC_2027Y', '15_MAR_2028Y', '15_SEP_2027Y', '16_DEC_2026Y', '16_JUN_2027Y', '16_SEP_2026Y', '17_MAR_2027Y', '20_DEC_2028Y', '20_SEP_2028Y', '21_JUN_2028Y', '21_MAR_2029Y']
+
+== RATES.FRA_OIS  GBP   n_tags=11 ==
+   example: RATES.FRA_OIS.GBP.15_DEC_2027Y
+   f2:    1 distinct -> ['GBP']
+   f3:   11 distinct -> ['15_DEC_2027Y', '15_MAR_2028Y', '15_SEP_2027Y', '16_DEC_2026Y', '16_JUN_2027Y', '16_SEP_2026Y', '17_MAR_2027Y', '20_DEC_2028Y', '20_SEP_2028Y', '21_JUN_2028Y', '21_MAR_2029Y']
+
+== RATES.FRA_OIS  JPY   n_tags=11 ==
+   example: RATES.FRA_OIS.JPY.15_DEC_2027Y
+   f2:    1 distinct -> ['JPY']
+   f3:   11 distinct -> ['15_DEC_2027Y', '15_MAR_2028Y', '15_SEP_2027Y', '16_DEC_2026Y', '16_JUN_2027Y', '16_SEP_2026Y', '17_MAR_2027Y', '20_DEC_2028Y', '20_SEP_2028Y', '21_JUN_2028Y', '21_MAR_2029Y']
+
+== RATES.FRA_OIS  USD   n_tags=11 ==
+   example: RATES.FRA_OIS.USD.15_DEC_2027Y
+   f2:    1 distinct -> ['USD']
+   f3:   11 distinct -> ['15_DEC_2027Y', '15_MAR_2028Y', '15_SEP_2027Y', '16_DEC_2026Y', '16_JUN_2027Y', '16_SEP_2026Y', '17_MAR_2027Y', '20_DEC_2028Y', '20_SEP_2028Y', '21_JUN_2028Y', '21_MAR_2029Y']
+
+== RATES.MIDCURVES  EUR   n_tags=702 ==
+   example: RATES.MIDCURVES.EUR.OPT_PAY.PRICE.1M.10Y10Y
+   f2:    1 distinct -> ['EUR']
+   f3:    3 distinct -> ['OPT_PAY', 'OPT_REC', 'OPT_STR']
+   f4:    2 distinct -> ['PRICE', 'VOL']
+   f5:    9 distinct -> ['1M', '1Y', '2Y', '3M', '3Y', '4Y', '5Y', '6M', '9M']
+   f6:   13 distinct -> ['10Y10Y', '10Y20Y', '1Y1Y', '1Y2Y', '1Y3Y', '20Y10Y', '2Y1Y', '2Y2Y', '2Y3Y', '3Y1Y', '3Y2Y', '3Y3Y', '5Y5Y']
+
+== RATES.MIDCURVES  GBP   n_tags=702 ==
+   example: RATES.MIDCURVES.GBP.OPT_PAY.PRICE.1M.10Y10Y
+   f2:    1 distinct -> ['GBP']
+   f3:    3 distinct -> ['OPT_PAY', 'OPT_REC', 'OPT_STR']
+   f4:    2 distinct -> ['PRICE', 'VOL']
+   f5:    9 distinct -> ['1M', '1Y', '2Y', '3M', '3Y', '4Y', '5Y', '6M', '9M']
+   f6:   13 distinct -> ['10Y10Y', '10Y20Y', '1Y1Y', '1Y2Y', '1Y3Y', '20Y10Y', '2Y1Y', '2Y2Y', '2Y3Y', '3Y1Y', '3Y2Y', '3Y3Y', '5Y5Y']
+
+== RATES.MIDCURVES  USD   n_tags=702 ==
+   example: RATES.MIDCURVES.USD.OPT_PAY.PRICE.1M.10Y10Y
+   f2:    1 distinct -> ['USD']
+   f3:    3 distinct -> ['OPT_PAY', 'OPT_REC', 'OPT_STR']
+   f4:    2 distinct -> ['PRICE', 'VOL']
+   f5:    9 distinct -> ['1M', '1Y', '2Y', '3M', '3Y', '4Y', '5Y', '6M', '9M']
+   f6:   13 distinct -> ['10Y10Y', '10Y20Y', '1Y1Y', '1Y2Y', '1Y3Y', '20Y10Y', '2Y1Y', '2Y2Y', '2Y3Y', '3Y1Y', '3Y2Y', '3Y3Y', '5Y5Y']
+
+== RATES.MIDCURVES  nan   n_tags=1410 ==
+   example: RATES.MIDCURVES.EURIBOR.OPT_PAY.PRICE.1M.10Y10Y
+   f2:    2 distinct -> ['EURIBOR', 'USD_SOFR']
+   f3:    3 distinct -> ['OPT_PAY', 'OPT_REC', 'OPT_STR']
+   f4:    2 distinct -> ['PRICE', 'VOL']
+   f5:   10 distinct -> ['10Y', '1M', '1Y', '2Y', '3M', '3Y', '4Y', '5Y', '6M', '9M']
+   f6:   14 distinct -> ['10Y10Y', '10Y20Y', '15Y15Y', '1Y1Y', '1Y2Y', '1Y3Y', '20Y10Y', '2Y1Y', '2Y2Y', '2Y3Y', '3Y1Y', '3Y2Y', '3Y3Y', '5Y5Y']
+
+== RATES.OIS  nan   n_tags=312457 ==
+   example: RATES.OIS.EUR_EONIA.BFLY.10Y.11Y.12Y
+   f2:   10 distinct -> ['AUD_AONIA', 'CAD_CORRA', 'EUR_EONIA', 'EUR_EUROSTR', 'GBP_SONIA', 'JPY_TONAR', 'JPY_TONAR_JSCC', 'JPY_TONAR_LCH', 'USD_FEDFUND', 'USD_SOFR']
+   f3:    6 distinct -> ['BFLY', 'CURVES', 'FWD', 'PAR', 'ROLL_CARRY', 'SWAP_SPREAD']
+   f4:   44 distinct -> ['10M', '10Y', '11M', '11Y', '12Y', '13Y', '14Y', '15M', '15Y', '16Y', '17Y', '18M', '18Y', '19Y', '1D', '1M', '1W', '1Y', '20Y', '21M', '25Y', '2M', '2W', '2Y', '30Y', '35Y', '3M', '3W', '3Y', '40Y', '45Y', '4M', '4Y', '50Y', '5M', '5Y', '6M', '6Y', '7M', '7Y']  (+4 more)
+   f5:   46 distinct -> ['10M', '10Y', '11M', '11Y', '12Y', '13Y', '14Y', '15M', '15Y', '16Y', '17Y', '18M', '18Y', '19Y', '1B', '1D', '1M', '1W', '1Y', '20Y', '21M', '25Y', '2M', '2W', '2Y', '30Y', '35Y', '3M', '3W', '3Y', '40Y', '45Y', '4M', '4Y', '50Y', '5M', '5Y', '6M', '6Y', '7M']  (+6 more)
+   f6:   44 distinct -> ['10M', '10Y', '11M', '11Y', '12Y', '13Y', '14Y', '15M', '15Y', '16Y', '17Y', '18M', '18Y', '19Y', '1B', '1M', '1W', '1Y', '20Y', '21M', '25Y', '2M', '2W', '2Y', '30Y', '35Y', '3M', '3W', '3Y', '40Y', '45Y', '4M', '4Y', '50Y', '5M', '5Y', '6M', '6Y', '7M', '7Y']  (+4 more)
+   f7:    3 distinct -> ['CARRY', 'ROLL', 'TOTAL_CARRY']
+
+== RATES.OIS_MEETING  AUD   n_tags=57 ==
+   example: RATES.OIS_MEETING.AUD.2020.20201103
+   f2:    1 distinct -> ['AUD']
+   f3:    7 distinct -> ['2020', '2021', '2022', '2023', '2024', '2025', '2026']
+   f4:   57 distinct -> ['20201103', '20201201', '20210301', '20210406', '20210504', '20210601', '20210706', '20210803', '20210907', '20211004', '20211101', '20211207', '20220201', '20220301', '20220405', '20220503', '20220607', '20220705', '20220802', '20220906', '20221004', '20221101', '20221206', '20230207', '20230307', '20230404', '20230502', '20230606', '20230704', '20230801', '20230905', '20231003', '20231107', '20231205', '20240207', '20240320', '20240508', '20240619', '20240807', '20240925']  (+17 more)
+
+== RATES.OIS_MEETING  CAD   n_tags=47 ==
+   example: RATES.OIS_MEETING.CAD.2021.20210120
+   f2:    1 distinct -> ['CAD']
+   f3:    6 distinct -> ['2021', '2022', '2023', '2024', '2025', '2026']
+   f4:   47 distinct -> ['20210120', '20210310', '20210421', '20210609', '20210714', '20210908', '20211027', '20211208', '20220126', '20220302', '20220413', '20220601', '20220713', '20220907', '20221026', '20221207', '20230125', '20230308', '20230412', '20230607', '20230712', '20230906', '20231025', '20231206', '20240124', '20240306', '20240410', '20240605', '20240724', '20240904', '20241023', '20241211', '20250129', '20250312', '20250416', '20250604', '20250730', '20250917', '20251029', '20251210']  (+7 more)
+
+== RATES.OIS_MEETING  EUR   n_tags=48 ==
+   example: RATES.OIS_MEETING.EUR.2020.20201210
+   f2:    1 distinct -> ['EUR']
+   f3:    7 distinct -> ['2020', '2021', '2022', '2023', '2024', '2025', '2026']
+   f4:   48 distinct -> ['20201210', '20210121', '20210311', '20210422', '20210610', '20210722', '20210909', '20211028', '20211216', '20220203', '20220310', '20220414', '20220609', '20220721', '20220908', '20221027', '20221215', '20230202', '20230316', '20230504', '20230615', '20230727', '20230914', '20231026', '20231214', '20240125', '20240307', '20240411', '20240606', '20240718', '20240912', '20241017', '20241212', '20250130', '20250306', '20250417', '20250605', '20250724', '20250911', '20251030']  (+8 more)
+
+== RATES.OIS_MEETING  GBP   n_tags=49 ==
+   example: RATES.OIS_MEETING.GBP.2020.20201105
+   f2:    1 distinct -> ['GBP']
+   f3:    7 distinct -> ['2020', '2021', '2022', '2023', '2024', '2025', '2026']
+   f4:   49 distinct -> ['20201105', '20201217', '20210204', '20210318', '20210506', '20210624', '20210805', '20210923', '20211104', '20211216', '20220203', '20220317', '20220505', '20220616', '20220804', '20220915', '20221103', '20221215', '20230202', '20230323', '20230511', '20230622', '20230803', '20230921', '20231102', '20231214', '20240201', '20240321', '20240509', '20240620', '20240801', '20240919', '20241107', '20241219', '20250206', '20250320', '20250508', '20250619', '20250807', '20250918']  (+9 more)
+
+== RATES.OIS_MEETING  JPY   n_tags=47 ==
+   example: RATES.OIS_MEETING.JPY.2021.20210129
+   f2:    1 distinct -> ['JPY']
+   f3:    6 distinct -> ['2021', '2022', '2023', '2024', '2025', '2026']
+   f4:   47 distinct -> ['20210129', '20210329', '20210511', '20210628', '20210727', '20211001', '20211108', '20211217', '20220117', '20220317', '20220427', '20220616', '20220720', '20220921', '20221027', '20221219', '20230118', '20230310', '20230428', '20230616', '20230728', '20230922', '20231031', '20231219', '20240123', '20240319', '20240426', '20240614', '20240731', '20240920', '20241031', '20241219', '20250124', '20250319', '20250501', '20250617', '20250731', '20250919', '20251030', '20251219']  (+7 more)
+
+== RATES.OIS_MEETING  USD   n_tags=50 ==
+   example: RATES.OIS_MEETING.USD.2020.20201105
+   f2:    1 distinct -> ['USD']
+   f3:    7 distinct -> ['2020', '2021', '2022', '2023', '2024', '2025', '2026']
+   f4:   50 distinct -> ['20201105', '20201216', '20210127', '20210317', '20210428', '20210616', '20210728', '20210922', '20211103', '20211215', '20220126', '20220316', '20220504', '20220615', '20220727', '20220921', '20221102', '20221214', '20230201', '20230322', '20230503', '20230614', '20230726', '20230920', '20231101', '20231213', '20240131', '20240320', '20240501', '20240612', '20240731', '20240918', '20241107', '20241218', '20250129', '20250319', '20250507', '20250618', '20250730', '20250917']  (+10 more)
+
+== RATES.SSA  nan   n_tags=32 ==
+   example: RATES.SSA.CADES.SPOT.10Y.DEU_SPRD
+   f2:    1 distinct -> ['CADES']
+   f3:    1 distinct -> ['SPOT']
+   f4:   16 distinct -> ['10Y', '12Y', '15Y', '1Y', '20Y', '2Y', '30Y', '3Y', '40Y', '4Y', '50Y', '5Y', '6Y', '7Y', '8Y', '9Y']
+   f5:    2 distinct -> ['DEU_SPRD', 'YIELD']
+
+== RATES.SWAP_LIBOR  AUD   n_tags=23817 ==
+   example: RATES.SWAP_LIBOR.AUD.BFLY.10Y.11Y.12Y
+   f2:    1 distinct -> ['AUD']
+   f3:    6 distinct -> ['BFLY', 'CURVES', 'FWD', 'PAR', 'ROLL_CARRY', 'SWAP_SPREAD']
+   f4:   41 distinct -> ['10M', '10Y', '11M', '11Y', '12Y', '13Y', '14Y', '15M', '15Y', '16Y', '17Y', '18M', '18Y', '19Y', '1M', '1W', '1Y', '20Y', '21M', '25Y', '2M', '2W', '2Y', '30Y', '3M', '3W', '3Y', '40Y', '4M', '4Y', '50Y', '5M', '5Y', '6M', '6Y', '7M', '7Y', '8M', '8Y', '9M']  (+1 more)
+   f5:   40 distinct -> ['10M', '10Y', '11M', '11Y', '12Y', '13Y', '14Y', '15M', '15Y', '16Y', '17Y', '18M', '18Y', '19Y', '1M', '1W', '1Y', '20Y', '21M', '25Y', '2M', '2Y', '30Y', '3M', '3Y', '40Y', '4M', '4Y', '50Y', '5M', '5Y', '6M', '6Y', '7M', '7Y', '8M', '8Y', '9M', '9Y', 'SPOT']
+   f6:   28 distinct -> ['10Y', '11Y', '12Y', '13Y', '14Y', '15Y', '16Y', '17Y', '18Y', '19Y', '1M', '1W', '1Y', '20Y', '25Y', '2Y', '30Y', '3M', '3Y', '40Y', '4Y', '50Y', '5Y', '6M', '6Y', '7Y', '8Y', '9Y']
+   f7:    3 distinct -> ['CARRY', 'ROLL', 'TOTAL_CARRY']
+
+== RATES.SWAP_LIBOR  CAD   n_tags=23814 ==
+   example: RATES.SWAP_LIBOR.CAD.BFLY.10Y.11Y.12Y
+   f2:    1 distinct -> ['CAD']
+   f3:    6 distinct -> ['BFLY', 'CURVES', 'FWD', 'PAR', 'ROLL_CARRY', 'SWAP_SPREAD']
+   f4:   41 distinct -> ['10M', '10Y', '11M', '11Y', '12Y', '13Y', '14Y', '15M', '15Y', '16Y', '17Y', '18M', '18Y', '19Y', '1M', '1W', '1Y', '20Y', '21M', '25Y', '2M', '2W', '2Y', '30Y', '3M', '3W', '3Y', '40Y', '4M', '4Y', '50Y', '5M', '5Y', '6M', '6Y', '7M', '7Y', '8M', '8Y', '9M']  (+1 more)
+   f5:   40 distinct -> ['10M', '10Y', '11M', '11Y', '12Y', '13Y', '14Y', '15M', '15Y', '16Y', '17Y', '18M', '18Y', '19Y', '1M', '1W', '1Y', '20Y', '21M', '25Y', '2M', '2Y', '30Y', '3M', '3Y', '40Y', '4M', '4Y', '50Y', '5M', '5Y', '6M', '6Y', '7M', '7Y', '8M', '8Y', '9M', '9Y', 'SPOT']
+   f6:   28 distinct -> ['10Y', '11Y', '12Y', '13Y', '14Y', '15Y', '16Y', '17Y', '18Y', '19Y', '1M', '1W', '1Y', '20Y', '25Y', '2Y', '30Y', '3M', '3Y', '40Y', '4Y', '50Y', '5Y', '6M', '6Y', '7Y', '8Y', '9Y']
+   f7:    3 distinct -> ['CARRY', 'ROLL', 'TOTAL_CARRY']
+
+== RATES.SWAP_LIBOR  EUR   n_tags=23812 ==
+   example: RATES.SWAP_LIBOR.EUR.BFLY.10Y.11Y.12Y
+   f2:    1 distinct -> ['EUR']
+   f3:    6 distinct -> ['BFLY', 'CURVES', 'FWD', 'PAR', 'ROLL_CARRY', 'SWAP_SPREAD']
+   f4:   41 distinct -> ['10M', '10Y', '11M', '11Y', '12Y', '13Y', '14Y', '15M', '15Y', '16Y', '17Y', '18M', '18Y', '19Y', '1M', '1W', '1Y', '20Y', '21M', '25Y', '2M', '2W', '2Y', '30Y', '3M', '3W', '3Y', '40Y', '4M', '4Y', '50Y', '5M', '5Y', '6M', '6Y', '7M', '7Y', '8M', '8Y', '9M']  (+1 more)
+   f5:   40 distinct -> ['10M', '10Y', '11M', '11Y', '12Y', '13Y', '14Y', '15M', '15Y', '16Y', '17Y', '18M', '18Y', '19Y', '1M', '1W', '1Y', '20Y', '21M', '25Y', '2M', '2Y', '30Y', '3M', '3Y', '40Y', '4M', '4Y', '50Y', '5M', '5Y', '6M', '6Y', '7M', '7Y', '8M', '8Y', '9M', '9Y', 'SPOT']
+   f6:   28 distinct -> ['10Y', '11Y', '12Y', '13Y', '14Y', '15Y', '16Y', '17Y', '18Y', '19Y', '1M', '1W', '1Y', '20Y', '25Y', '2Y', '30Y', '3M', '3Y', '40Y', '4Y', '50Y', '5Y', '6M', '6Y', '7Y', '8Y', '9Y']
+   f7:    3 distinct -> ['CARRY', 'ROLL', 'TOTAL_CARRY']
+
+== RATES.SWAP_LIBOR  GBP   n_tags=23817 ==
+   example: RATES.SWAP_LIBOR.GBP.BFLY.10Y.11Y.12Y
+   f2:    1 distinct -> ['GBP']
+   f3:    6 distinct -> ['BFLY', 'CURVES', 'FWD', 'PAR', 'ROLL_CARRY', 'SWAP_SPREAD']
+   f4:   41 distinct -> ['10M', '10Y', '11M', '11Y', '12Y', '13Y', '14Y', '15M', '15Y', '16Y', '17Y', '18M', '18Y', '19Y', '1M', '1W', '1Y', '20Y', '21M', '25Y', '2M', '2W', '2Y', '30Y', '3M', '3W', '3Y', '40Y', '4M', '4Y', '50Y', '5M', '5Y', '6M', '6Y', '7M', '7Y', '8M', '8Y', '9M']  (+1 more)
+   f5:   40 distinct -> ['10M', '10Y', '11M', '11Y', '12Y', '13Y', '14Y', '15M', '15Y', '16Y', '17Y', '18M', '18Y', '19Y', '1M', '1W', '1Y', '20Y', '21M', '25Y', '2M', '2Y', '30Y', '3M', '3Y', '40Y', '4M', '4Y', '50Y', '5M', '5Y', '6M', '6Y', '7M', '7Y', '8M', '8Y', '9M', '9Y', 'SPOT']
+   f6:   28 distinct -> ['10Y', '11Y', '12Y', '13Y', '14Y', '15Y', '16Y', '17Y', '18Y', '19Y', '1M', '1W', '1Y', '20Y', '25Y', '2Y', '30Y', '3M', '3Y', '40Y', '4Y', '50Y', '5Y', '6M', '6Y', '7Y', '8Y', '9Y']
+   f7:    3 distinct -> ['CARRY', 'ROLL', 'TOTAL_CARRY']
+
+== RATES.SWAP_LIBOR  JPY   n_tags=23818 ==
+   example: RATES.SWAP_LIBOR.JPY.BFLY.10Y.11Y.12Y
+   f2:    1 distinct -> ['JPY']
+   f3:    6 distinct -> ['BFLY', 'CURVES', 'FWD', 'PAR', 'ROLL_CARRY', 'SWAP_SPREAD']
+   f4:   41 distinct -> ['10M', '10Y', '11M', '11Y', '12Y', '13Y', '14Y', '15M', '15Y', '16Y', '17Y', '18M', '18Y', '19Y', '1M', '1W', '1Y', '20Y', '21M', '25Y', '2M', '2W', '2Y', '30Y', '3M', '3W', '3Y', '40Y', '4M', '4Y', '50Y', '5M', '5Y', '6M', '6Y', '7M', '7Y', '8M', '8Y', '9M']  (+1 more)
+   f5:   40 distinct -> ['10M', '10Y', '11M', '11Y', '12Y', '13Y', '14Y', '15M', '15Y', '16Y', '17Y', '18M', '18Y', '19Y', '1M', '1W', '1Y', '20Y', '21M', '25Y', '2M', '2Y', '30Y', '3M', '3Y', '40Y', '4M', '4Y', '50Y', '5M', '5Y', '6M', '6Y', '7M', '7Y', '8M', '8Y', '9M', '9Y', 'SPOT']
+   f6:   28 distinct -> ['10Y', '11Y', '12Y', '13Y', '14Y', '15Y', '16Y', '17Y', '18Y', '19Y', '1M', '1W', '1Y', '20Y', '25Y', '2Y', '30Y', '3M', '3Y', '40Y', '4Y', '50Y', '5Y', '6M', '6Y', '7Y', '8Y', '9Y']
+   f7:    3 distinct -> ['CARRY', 'ROLL', 'TOTAL_CARRY']
+
+== RATES.SWAP_LIBOR  USD   n_tags=23818 ==
+   example: RATES.SWAP_LIBOR.USD.BFLY.10Y.11Y.12Y
+   f2:    1 distinct -> ['USD']
+   f3:    6 distinct -> ['BFLY', 'CURVES', 'FWD', 'PAR', 'ROLL_CARRY', 'SWAP_SPREAD']
+   f4:   41 distinct -> ['10M', '10Y', '11M', '11Y', '12Y', '13Y', '14Y', '15M', '15Y', '16Y', '17Y', '18M', '18Y', '19Y', '1M', '1W', '1Y', '20Y', '21M', '25Y', '2M', '2W', '2Y', '30Y', '3M', '3W', '3Y', '40Y', '4M', '4Y', '50Y', '5M', '5Y', '6M', '6Y', '7M', '7Y', '8M', '8Y', '9M']  (+1 more)
+   f5:   40 distinct -> ['10M', '10Y', '11M', '11Y', '12Y', '13Y', '14Y', '15M', '15Y', '16Y', '17Y', '18M', '18Y', '19Y', '1M', '1W', '1Y', '20Y', '21M', '25Y', '2M', '2Y', '30Y', '3M', '3Y', '40Y', '4M', '4Y', '50Y', '5M', '5Y', '6M', '6Y', '7M', '7Y', '8M', '8Y', '9M', '9Y', 'SPOT']
+   f6:   28 distinct -> ['10Y', '11Y', '12Y', '13Y', '14Y', '15Y', '16Y', '17Y', '18Y', '19Y', '1M', '1W', '1Y', '20Y', '25Y', '2Y', '30Y', '3M', '3Y', '40Y', '4Y', '50Y', '5Y', '6M', '6Y', '7Y', '8Y', '9Y']
+   f7:    3 distinct -> ['CARRY', 'ROLL', 'TOTAL_CARRY']
+
+== RATES.SWAP_LIBOR  nan   n_tags=541 ==
+   example: RATES.SWAP_LIBOR.JPY_LCH.PAR.10Y
+   f2:    1 distinct -> ['JPY_LCH']
+   f3:    2 distinct -> ['PAR', 'ROLL_CARRY']
+   f4:   32 distinct -> ['10Y', '11Y', '12Y', '13Y', '14Y', '15Y', '16Y', '17Y', '18Y', '19Y', '1M', '1W', '1Y', '20Y', '25Y', '2M', '2W', '2Y', '30Y', '3M', '3W', '3Y', '40Y', '4Y', '50Y', '5Y', '6M', '6Y', '7Y', '8Y', '9M', '9Y']
+   f5:    1 distinct -> ['SPOT']
+   f6:   19 distinct -> ['10Y', '12Y', '15Y', '1W', '1Y', '20Y', '2Y', '30Y', '3M', '3Y', '40Y', '4Y', '50Y', '5Y', '6M', '6Y', '7Y', '8Y', '9Y']
+   f7:    3 distinct -> ['CARRY', 'ROLL', 'TOTAL_CARRY']
+
+== RATES.TSY  USD   n_tags=24 ==
+   example: RATES.TSY.TIPS.USD.10Y.ASS_SOFR
+   f2:    1 distinct -> ['TIPS']
+   f3:    1 distinct -> ['USD']
+   f4:    3 distinct -> ['10Y', '30Y', '5Y']
+   f5:    6 distinct -> ['ASS_SOFR', 'BREAKEVENS', 'CARRY', 'CARRY_BE', 'PRICE', 'YIELD']
+   f6:    2 distinct -> ['1M', '3M']
+
+== RATES.VOL  AUD   n_tags=2590 ==
+   example: RATES.VOL.AUD.ATM.BLACK.10Y.10Y
+   f2:    1 distinct -> ['AUD']
+   f3:    3 distinct -> ['ATM', 'REALIZED', 'VOL_RATIO']
+   f4:    8 distinct -> ['1M', '1Y', '3M', '6M', 'BLACK', 'FWDPREMIUM', 'NORMAL', 'PREMIUM']
+   f5:   17 distinct -> ['10Y', '12Y', '15Y', '1M', '1Y', '20Y', '2Y', '30Y', '3M', '3Y', '4Y', '5Y', '6M', '7Y', '9M', 'ANNUAL', 'DAILY']
+   f6:   17 distinct -> ['10Y', '12Y', '15Y', '18M', '1M', '1Y', '20Y', '2M', '2Y', '30Y', '3M', '3Y', '4Y', '5Y', '6M', '7Y', '9M']
+   f7:   10 distinct -> ['10Y', '15Y', '1Y', '20Y', '2Y', '30Y', '3M', '3Y', '5Y', '7Y']
+
+== RATES.VOL  EUR   n_tags=4457 ==
+   example: RATES.VOL.EUR.ATM.BLACK.10Y.10Y
+   f2:    1 distinct -> ['EUR']
+   f3:    6 distinct -> ['ATM', 'ATM_RFR', 'REALIZED', 'REALIZED_RFR', 'VOL_RATIO', 'VOL_RATIO_RFR']
+   f4:    8 distinct -> ['1M', '1Y', '3M', '6M', 'BLACK', 'FWDPREMIUM', 'NORMAL', 'PREMIUM']
+   f5:   19 distinct -> ['10Y', '12Y', '15Y', '18M', '1M', '1Y', '20Y', '2M', '2Y', '30Y', '3M', '3Y', '4Y', '5Y', '6M', '7Y', '9M', 'ANNUAL', 'DAILY']
+   f6:   17 distinct -> ['10Y', '12Y', '15Y', '18M', '1M', '1Y', '20Y', '2M', '2Y', '30Y', '3M', '3Y', '4Y', '5Y', '6M', '7Y', '9M']
+   f7:   10 distinct -> ['10Y', '15Y', '1Y', '20Y', '2Y', '30Y', '3M', '3Y', '5Y', '7Y']
+
+== RATES.VOL  GBP   n_tags=4457 ==
+   example: RATES.VOL.GBP.ATM.BLACK.10Y.10Y
+   f2:    1 distinct -> ['GBP']
+   f3:    6 distinct -> ['ATM', 'ATM_RFR', 'REALIZED', 'REALIZED_RFR', 'VOL_RATIO', 'VOL_RATIO_RFR']
+   f4:    8 distinct -> ['1M', '1Y', '3M', '6M', 'BLACK', 'FWDPREMIUM', 'NORMAL', 'PREMIUM']
+   f5:   19 distinct -> ['10Y', '12Y', '15Y', '18M', '1M', '1Y', '20Y', '2M', '2Y', '30Y', '3M', '3Y', '4Y', '5Y', '6M', '7Y', '9M', 'ANNUAL', 'DAILY']
+   f6:   17 distinct -> ['10Y', '12Y', '15Y', '18M', '1M', '1Y', '20Y', '2M', '2Y', '30Y', '3M', '3Y', '4Y', '5Y', '6M', '7Y', '9M']
+   f7:   10 distinct -> ['10Y', '15Y', '1Y', '20Y', '2Y', '30Y', '3M', '3Y', '5Y', '7Y']
+
+== RATES.VOL  JPY   n_tags=4525 ==
+   example: RATES.VOL.JPY.ATM.BLACK.10Y.10Y
+   f2:    1 distinct -> ['JPY']
+   f3:    6 distinct -> ['ATM', 'ATM_RFR', 'REALIZED', 'REALIZED_RFR', 'VOL_RATIO', 'VOL_RATIO_RFR']
+   f4:    8 distinct -> ['1M', '1Y', '3M', '6M', 'BLACK', 'FWDPREMIUM', 'NORMAL', 'PREMIUM']
+   f5:   19 distinct -> ['10Y', '12Y', '15Y', '18M', '1M', '1Y', '20Y', '2M', '2Y', '30Y', '3M', '3Y', '4Y', '5Y', '6M', '7Y', '9M', 'ANNUAL', 'DAILY']
+   f6:   17 distinct -> ['10Y', '12Y', '15Y', '18M', '1M', '1Y', '20Y', '2M', '2Y', '30Y', '3M', '3Y', '4Y', '5Y', '6M', '7Y', '9M']
+   f7:   10 distinct -> ['10Y', '15Y', '1Y', '20Y', '2Y', '30Y', '3M', '3Y', '5Y', '7Y']
+
+== RATES.VOL  USD   n_tags=4695 ==
+   example: RATES.VOL.USD.ATM.BLACK.10Y.10Y
+   f2:    1 distinct -> ['USD']
+   f3:    6 distinct -> ['ATM', 'ATM_RFR', 'REALIZED', 'REALIZED_RFR', 'VOL_RATIO', 'VOL_RATIO_RFR']
+   f4:    8 distinct -> ['1M', '1Y', '3M', '6M', 'BLACK', 'FWDPREMIUM', 'NORMAL', 'PREMIUM']
+   f5:   19 distinct -> ['10Y', '12Y', '15Y', '18M', '1M', '1Y', '20Y', '2M', '2Y', '30Y', '3M', '3Y', '4Y', '5Y', '6M', '7Y', '9M', 'ANNUAL', 'DAILY']
+   f6:   17 distinct -> ['10Y', '12Y', '15Y', '18M', '1M', '1Y', '20Y', '2M', '2Y', '30Y', '3M', '3Y', '4Y', '5Y', '6M', '7Y', '9M']
+   f7:   10 distinct -> ['10Y', '15Y', '1Y', '20Y', '2Y', '30Y', '3M', '3Y', '5Y', '7Y']
+
+== RATES.XCCY_OIS_SWAP  AUD   n_tags=7317 ==
+   example: RATES.XCCY_OIS_SWAP.AUD.CAD.10Y.10Y.BASE_LEG.BASIS_SPREAD
+   f2:    1 distinct -> ['AUD']
+   f3:    9 distinct -> ['CAD', 'CHF', 'EUR', 'GBP', 'JPY', 'NOK', 'NZD', 'SEK', 'USD']
+   f4:   20 distinct -> ['10Y', '11Y', '12Y', '15Y', '1M', '1Y', '20Y', '25Y', '2Y', '30Y', '3M', '3Y', '4Y', '5Y', '6M', '6Y', '7Y', '8Y', '9Y', 'SPOT']
+   f5:   21 distinct -> ['10Y', '11Y', '12Y', '15Y', '18M', '1M', '1Y', '20Y', '25Y', '2Y', '30Y', '3M', '3Y', '4Y', '5Y', '6M', '6Y', '7Y', '8Y', '9M', '9Y']
+   f6:    2 distinct -> ['BASE_LEG', 'SPREAD_LEG']
+   f7:    1 distinct -> ['BASIS_SPREAD']
+
+== RATES.XCCY_OIS_SWAP  CAD   n_tags=7317 ==
+   example: RATES.XCCY_OIS_SWAP.CAD.AUD.10Y.10Y.BASE_LEG.BASIS_SPREAD
+   f2:    1 distinct -> ['CAD']
+   f3:    9 distinct -> ['AUD', 'CHF', 'EUR', 'GBP', 'JPY', 'NOK', 'NZD', 'SEK', 'USD']
+   f4:   20 distinct -> ['10Y', '11Y', '12Y', '15Y', '1M', '1Y', '20Y', '25Y', '2Y', '30Y', '3M', '3Y', '4Y', '5Y', '6M', '6Y', '7Y', '8Y', '9Y', 'SPOT']
+   f5:   21 distinct -> ['10Y', '11Y', '12Y', '15Y', '18M', '1M', '1Y', '20Y', '25Y', '2Y', '30Y', '3M', '3Y', '4Y', '5Y', '6M', '6Y', '7Y', '8Y', '9M', '9Y']
+   f6:    2 distinct -> ['BASE_LEG', 'SPREAD_LEG']
+   f7:    1 distinct -> ['BASIS_SPREAD']
+
+== RATES.XCCY_OIS_SWAP  EUR   n_tags=7317 ==
+   example: RATES.XCCY_OIS_SWAP.EUR.AUD.10Y.10Y.BASE_LEG.BASIS_SPREAD
+   f2:    1 distinct -> ['EUR']
+   f3:    9 distinct -> ['AUD', 'CAD', 'CHF', 'GBP', 'JPY', 'NOK', 'NZD', 'SEK', 'USD']
+   f4:   20 distinct -> ['10Y', '11Y', '12Y', '15Y', '1M', '1Y', '20Y', '25Y', '2Y', '30Y', '3M', '3Y', '4Y', '5Y', '6M', '6Y', '7Y', '8Y', '9Y', 'SPOT']
+   f5:   21 distinct -> ['10Y', '11Y', '12Y', '15Y', '18M', '1M', '1Y', '20Y', '25Y', '2Y', '30Y', '3M', '3Y', '4Y', '5Y', '6M', '6Y', '7Y', '8Y', '9M', '9Y']
+   f6:    2 distinct -> ['BASE_LEG', 'SPREAD_LEG']
+   f7:    1 distinct -> ['BASIS_SPREAD']
+
+== RATES.XCCY_OIS_SWAP  GBP   n_tags=7317 ==
+   example: RATES.XCCY_OIS_SWAP.GBP.AUD.10Y.10Y.BASE_LEG.BASIS_SPREAD
+   f2:    1 distinct -> ['GBP']
+   f3:    9 distinct -> ['AUD', 'CAD', 'CHF', 'EUR', 'JPY', 'NOK', 'NZD', 'SEK', 'USD']
+   f4:   20 distinct -> ['10Y', '11Y', '12Y', '15Y', '1M', '1Y', '20Y', '25Y', '2Y', '30Y', '3M', '3Y', '4Y', '5Y', '6M', '6Y', '7Y', '8Y', '9Y', 'SPOT']
+   f5:   21 distinct -> ['10Y', '11Y', '12Y', '15Y', '18M', '1M', '1Y', '20Y', '25Y', '2Y', '30Y', '3M', '3Y', '4Y', '5Y', '6M', '6Y', '7Y', '8Y', '9M', '9Y']
+   f6:    2 distinct -> ['BASE_LEG', 'SPREAD_LEG']
+   f7:    1 distinct -> ['BASIS_SPREAD']
+
+== RATES.XCCY_OIS_SWAP  JPY   n_tags=7317 ==
+   example: RATES.XCCY_OIS_SWAP.JPY.AUD.10Y.10Y.BASE_LEG.BASIS_SPREAD
+   f2:    1 distinct -> ['JPY']
+   f3:    9 distinct -> ['AUD', 'CAD', 'CHF', 'EUR', 'GBP', 'NOK', 'NZD', 'SEK', 'USD']
+   f4:   20 distinct -> ['10Y', '11Y', '12Y', '15Y', '1M', '1Y', '20Y', '25Y', '2Y', '30Y', '3M', '3Y', '4Y', '5Y', '6M', '6Y', '7Y', '8Y', '9Y', 'SPOT']
+   f5:   21 distinct -> ['10Y', '11Y', '12Y', '15Y', '18M', '1M', '1Y', '20Y', '25Y', '2Y', '30Y', '3M', '3Y', '4Y', '5Y', '6M', '6Y', '7Y', '8Y', '9M', '9Y']
+   f6:    2 distinct -> ['BASE_LEG', 'SPREAD_LEG']
+   f7:    1 distinct -> ['BASIS_SPREAD']
+
+== RATES.XCCY_OIS_SWAP  USD   n_tags=9753 ==
+   example: RATES.XCCY_OIS_SWAP.USD.AUD.10Y.10Y.BASE_LEG.BASIS_SPREAD
+   f2:    2 distinct -> ['AUD_BBSW', 'USD']
+   f3:   12 distinct -> ['AUD', 'AUD_BBSW', 'CAD', 'CHF', 'EUR', 'GBP', 'JPY', 'NOK', 'NZD', 'NZD_BKBM', 'SEK', 'USD']
+   f4:   20 distinct -> ['10Y', '11Y', '12Y', '15Y', '1M', '1Y', '20Y', '25Y', '2Y', '30Y', '3M', '3Y', '4Y', '5Y', '6M', '6Y', '7Y', '8Y', '9Y', 'SPOT']
+   f5:   21 distinct -> ['10Y', '11Y', '12Y', '15Y', '18M', '1M', '1Y', '20Y', '25Y', '2Y', '30Y', '3M', '3Y', '4Y', '5Y', '6M', '6Y', '7Y', '8Y', '9M', '9Y']
+   f6:    2 distinct -> ['BASE_LEG', 'SPREAD_LEG']
+   f7:    1 distinct -> ['BASIS_SPREAD']

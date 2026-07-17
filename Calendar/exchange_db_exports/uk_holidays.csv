@@ -1,0 +1,376 @@
+date,name
+1985-01-01,New Year's Day
+1985-04-05,Good Friday
+1985-04-08,Easter Monday
+1985-05-06,Early May Bank Holiday
+1985-05-27,Spring Bank Holiday
+1985-08-26,Summer Bank Holiday
+1985-12-25,Christmas
+1985-12-26,Boxing Day
+1986-01-01,New Year's Day
+1986-03-28,Good Friday
+1986-03-31,Easter Monday
+1986-05-05,Early May Bank Holiday
+1986-05-26,Spring Bank Holiday
+1986-08-25,Summer Bank Holiday
+1986-12-25,Christmas
+1986-12-26,Boxing Day
+1987-01-01,New Year's Day
+1987-04-17,Good Friday
+1987-04-20,Easter Monday
+1987-05-04,Early May Bank Holiday
+1987-05-25,Spring Bank Holiday
+1987-08-31,Summer Bank Holiday
+1987-12-25,Christmas
+1987-12-28,Weekend Boxing Day
+1988-01-01,New Year's Day
+1988-04-01,Good Friday
+1988-04-04,Easter Monday
+1988-05-02,Early May Bank Holiday
+1988-05-30,Spring Bank Holiday
+1988-08-29,Summer Bank Holiday
+1988-12-26,Boxing Day
+1988-12-27,Weekend Christmas
+1989-01-02,New Year's Day
+1989-03-24,Good Friday
+1989-03-27,Easter Monday
+1989-05-01,Early May Bank Holiday
+1989-05-29,Spring Bank Holiday
+1989-08-28,Summer Bank Holiday
+1989-12-25,Christmas
+1989-12-26,Boxing Day
+1990-01-01,New Year's Day
+1990-04-13,Good Friday
+1990-04-16,Easter Monday
+1990-05-07,Early May Bank Holiday
+1990-05-28,Spring Bank Holiday
+1990-08-27,Summer Bank Holiday
+1990-12-25,Christmas
+1990-12-26,Boxing Day
+1991-01-01,New Year's Day
+1991-03-29,Good Friday
+1991-04-01,Easter Monday
+1991-05-06,Early May Bank Holiday
+1991-05-27,Spring Bank Holiday
+1991-08-26,Summer Bank Holiday
+1991-12-25,Christmas
+1991-12-26,Boxing Day
+1992-01-01,New Year's Day
+1992-04-17,Good Friday
+1992-04-20,Easter Monday
+1992-05-04,Early May Bank Holiday
+1992-05-25,Spring Bank Holiday
+1992-08-31,Summer Bank Holiday
+1992-12-25,Christmas
+1992-12-28,Weekend Boxing Day
+1993-01-01,New Year's Day
+1993-04-09,Good Friday
+1993-04-12,Easter Monday
+1993-05-03,Early May Bank Holiday
+1993-05-31,Spring Bank Holiday
+1993-08-30,Summer Bank Holiday
+1993-12-27,Weekend Christmas
+1993-12-28,Weekend Boxing Day
+1994-01-03,New Year's Day
+1994-04-01,Good Friday
+1994-04-04,Easter Monday
+1994-05-02,Early May Bank Holiday
+1994-05-30,Spring Bank Holiday
+1994-08-29,Summer Bank Holiday
+1994-12-26,Boxing Day
+1994-12-27,Weekend Christmas
+1995-01-02,New Year's Day
+1995-04-14,Good Friday
+1995-04-17,Easter Monday
+1995-05-08,XLON Holiday
+1995-05-29,Spring Bank Holiday
+1995-08-28,Summer Bank Holiday
+1995-12-25,Christmas
+1995-12-26,Boxing Day
+1996-01-01,New Year's Day
+1996-04-05,Good Friday
+1996-04-08,Easter Monday
+1996-05-06,Early May Bank Holiday
+1996-05-27,Spring Bank Holiday
+1996-08-26,Summer Bank Holiday
+1996-12-25,Christmas
+1996-12-26,Boxing Day
+1997-01-01,New Year's Day
+1997-03-28,Good Friday
+1997-03-31,Easter Monday
+1997-05-05,Early May Bank Holiday
+1997-05-26,Spring Bank Holiday
+1997-08-25,Summer Bank Holiday
+1997-12-25,Christmas
+1997-12-26,Boxing Day
+1998-01-01,New Year's Day
+1998-04-10,Good Friday
+1998-04-13,Easter Monday
+1998-05-04,Early May Bank Holiday
+1998-05-25,Spring Bank Holiday
+1998-08-31,Summer Bank Holiday
+1998-12-25,Christmas
+1998-12-28,Weekend Boxing Day
+1999-01-01,New Year's Day
+1999-04-02,Good Friday
+1999-04-05,Easter Monday
+1999-05-03,Early May Bank Holiday
+1999-05-31,Spring Bank Holiday
+1999-08-30,Summer Bank Holiday
+1999-12-27,Weekend Christmas
+1999-12-28,Weekend Boxing Day
+1999-12-31,XLON Holiday
+2000-01-03,New Year's Day
+2000-04-21,Good Friday
+2000-04-24,Easter Monday
+2000-05-01,Early May Bank Holiday
+2000-05-29,Spring Bank Holiday
+2000-08-28,Summer Bank Holiday
+2000-12-25,Christmas
+2000-12-26,Boxing Day
+2001-01-01,New Year's Day
+2001-04-13,Good Friday
+2001-04-16,Easter Monday
+2001-05-07,Early May Bank Holiday
+2001-05-28,Spring Bank Holiday
+2001-08-27,Summer Bank Holiday
+2001-12-25,Christmas
+2001-12-26,Boxing Day
+2002-01-01,New Year's Day
+2002-03-29,Good Friday
+2002-04-01,Easter Monday
+2002-05-06,Early May Bank Holiday
+2002-06-03,XLON Holiday
+2002-06-04,XLON Holiday
+2002-08-26,Summer Bank Holiday
+2002-12-25,Christmas
+2002-12-26,Boxing Day
+2003-01-01,New Year's Day
+2003-04-18,Good Friday
+2003-04-21,Easter Monday
+2003-05-05,Early May Bank Holiday
+2003-05-26,Spring Bank Holiday
+2003-08-25,Summer Bank Holiday
+2003-12-25,Christmas
+2003-12-26,Boxing Day
+2004-01-01,New Year's Day
+2004-04-09,Good Friday
+2004-04-12,Easter Monday
+2004-05-03,Early May Bank Holiday
+2004-05-31,Spring Bank Holiday
+2004-08-30,Summer Bank Holiday
+2004-12-27,Weekend Christmas
+2004-12-28,Weekend Boxing Day
+2005-01-03,New Year's Day
+2005-03-25,Good Friday
+2005-03-28,Easter Monday
+2005-05-02,Early May Bank Holiday
+2005-05-30,Spring Bank Holiday
+2005-08-29,Summer Bank Holiday
+2005-12-26,Boxing Day
+2005-12-27,Weekend Christmas
+2006-01-02,New Year's Day
+2006-04-14,Good Friday
+2006-04-17,Easter Monday
+2006-05-01,Early May Bank Holiday
+2006-05-29,Spring Bank Holiday
+2006-08-28,Summer Bank Holiday
+2006-12-25,Christmas
+2006-12-26,Boxing Day
+2007-01-01,New Year's Day
+2007-04-06,Good Friday
+2007-04-09,Easter Monday
+2007-05-07,Early May Bank Holiday
+2007-05-28,Spring Bank Holiday
+2007-08-27,Summer Bank Holiday
+2007-12-25,Christmas
+2007-12-26,Boxing Day
+2008-01-01,New Year's Day
+2008-03-21,Good Friday
+2008-03-24,Easter Monday
+2008-05-05,Early May Bank Holiday
+2008-05-26,Spring Bank Holiday
+2008-08-25,Summer Bank Holiday
+2008-12-25,Christmas
+2008-12-26,Boxing Day
+2009-01-01,New Year's Day
+2009-04-10,Good Friday
+2009-04-13,Easter Monday
+2009-05-04,Early May Bank Holiday
+2009-05-25,Spring Bank Holiday
+2009-08-31,Summer Bank Holiday
+2009-12-25,Christmas
+2009-12-28,Weekend Boxing Day
+2010-01-01,New Year's Day
+2010-04-02,Good Friday
+2010-04-05,Easter Monday
+2010-05-03,Early May Bank Holiday
+2010-05-31,Spring Bank Holiday
+2010-08-30,Summer Bank Holiday
+2010-12-27,Weekend Christmas
+2010-12-28,Weekend Boxing Day
+2011-01-03,New Year's Day
+2011-04-22,Good Friday
+2011-04-25,Easter Monday
+2011-04-29,XLON Holiday
+2011-05-02,Early May Bank Holiday
+2011-05-30,Spring Bank Holiday
+2011-08-29,Summer Bank Holiday
+2011-12-26,Boxing Day
+2011-12-27,Weekend Christmas
+2012-01-02,New Year's Day
+2012-04-06,Good Friday
+2012-04-09,Easter Monday
+2012-05-07,Early May Bank Holiday
+2012-06-04,XLON Holiday
+2012-06-05,XLON Holiday
+2012-08-27,Summer Bank Holiday
+2012-12-25,Christmas
+2012-12-26,Boxing Day
+2013-01-01,New Year's Day
+2013-03-29,Good Friday
+2013-04-01,Easter Monday
+2013-05-06,Early May Bank Holiday
+2013-05-27,Spring Bank Holiday
+2013-08-26,Summer Bank Holiday
+2013-12-25,Christmas
+2013-12-26,Boxing Day
+2014-01-01,New Year's Day
+2014-04-18,Good Friday
+2014-04-21,Easter Monday
+2014-05-05,Early May Bank Holiday
+2014-05-26,Spring Bank Holiday
+2014-08-25,Summer Bank Holiday
+2014-12-25,Christmas
+2014-12-26,Boxing Day
+2015-01-01,New Year's Day
+2015-04-03,Good Friday
+2015-04-06,Easter Monday
+2015-05-04,Early May Bank Holiday
+2015-05-25,Spring Bank Holiday
+2015-08-31,Summer Bank Holiday
+2015-12-25,Christmas
+2015-12-28,Weekend Boxing Day
+2016-01-01,New Year's Day
+2016-03-25,Good Friday
+2016-03-28,Easter Monday
+2016-05-02,Early May Bank Holiday
+2016-05-30,Spring Bank Holiday
+2016-08-29,Summer Bank Holiday
+2016-12-26,Boxing Day
+2016-12-27,Weekend Christmas
+2017-01-02,New Year's Day
+2017-04-14,Good Friday
+2017-04-17,Easter Monday
+2017-05-01,Early May Bank Holiday
+2017-05-29,Spring Bank Holiday
+2017-08-28,Summer Bank Holiday
+2017-12-25,Christmas
+2017-12-26,Boxing Day
+2018-01-01,New Year's Day
+2018-03-30,Good Friday
+2018-04-02,Easter Monday
+2018-05-07,Early May Bank Holiday
+2018-05-28,Spring Bank Holiday
+2018-08-27,Summer Bank Holiday
+2018-12-25,Christmas
+2018-12-26,Boxing Day
+2019-01-01,New Year's Day
+2019-04-19,Good Friday
+2019-04-22,Easter Monday
+2019-05-06,Early May Bank Holiday
+2019-05-27,Spring Bank Holiday
+2019-08-26,Summer Bank Holiday
+2019-12-25,Christmas
+2019-12-26,Boxing Day
+2020-01-01,New Year's Day
+2020-04-10,Good Friday
+2020-04-13,Easter Monday
+2020-05-08,XLON Holiday
+2020-05-25,Spring Bank Holiday
+2020-08-31,Summer Bank Holiday
+2020-12-25,Christmas
+2020-12-28,Weekend Boxing Day
+2021-01-01,New Year's Day
+2021-04-02,Good Friday
+2021-04-05,Easter Monday
+2021-05-03,Early May Bank Holiday
+2021-05-31,Spring Bank Holiday
+2021-08-30,Summer Bank Holiday
+2021-12-27,Weekend Christmas
+2021-12-28,Weekend Boxing Day
+2022-01-03,New Year's Day
+2022-04-15,Good Friday
+2022-04-18,Easter Monday
+2022-05-02,Early May Bank Holiday
+2022-06-02,XLON Holiday
+2022-06-03,XLON Holiday
+2022-08-29,Summer Bank Holiday
+2022-09-19,XLON Holiday
+2022-12-26,Boxing Day
+2022-12-27,Weekend Christmas
+2023-01-02,New Year's Day
+2023-04-07,Good Friday
+2023-04-10,Easter Monday
+2023-05-01,Early May Bank Holiday
+2023-05-08,XLON Holiday
+2023-05-29,Spring Bank Holiday
+2023-08-28,Summer Bank Holiday
+2023-12-25,Christmas
+2023-12-26,Boxing Day
+2024-01-01,New Year's Day
+2024-03-29,Good Friday
+2024-04-01,Easter Monday
+2024-05-06,Early May Bank Holiday
+2024-05-27,Spring Bank Holiday
+2024-08-26,Summer Bank Holiday
+2024-12-25,Christmas
+2024-12-26,Boxing Day
+2025-01-01,New Year's Day
+2025-04-18,Good Friday
+2025-04-21,Easter Monday
+2025-05-05,Early May Bank Holiday
+2025-05-26,Spring Bank Holiday
+2025-08-25,Summer Bank Holiday
+2025-12-25,Christmas
+2025-12-26,Boxing Day
+2026-01-01,New Year's Day
+2026-04-03,Good Friday
+2026-04-06,Easter Monday
+2026-05-04,Early May Bank Holiday
+2026-05-25,Spring Bank Holiday
+2026-08-31,Summer Bank Holiday
+2026-12-25,Christmas
+2026-12-28,Weekend Boxing Day
+2027-01-01,New Year's Day
+2027-03-26,Good Friday
+2027-03-29,Easter Monday
+2027-05-03,Early May Bank Holiday
+2027-05-31,Spring Bank Holiday
+2027-08-30,Summer Bank Holiday
+2027-12-27,Weekend Christmas
+2027-12-28,Weekend Boxing Day
+2028-01-03,New Year's Day
+2028-04-14,Good Friday
+2028-04-17,Easter Monday
+2028-05-01,Early May Bank Holiday
+2028-05-29,Spring Bank Holiday
+2028-08-28,Summer Bank Holiday
+2028-12-25,Christmas
+2028-12-26,Boxing Day
+2029-01-01,New Year's Day
+2029-03-30,Good Friday
+2029-04-02,Easter Monday
+2029-05-07,Early May Bank Holiday
+2029-05-28,Spring Bank Holiday
+2029-08-27,Summer Bank Holiday
+2029-12-25,Christmas
+2029-12-26,Boxing Day
+2030-01-01,New Year's Day
+2030-04-19,Good Friday
+2030-04-22,Easter Monday
+2030-05-06,Early May Bank Holiday
+2030-05-27,Spring Bank Holiday
+2030-08-26,Summer Bank Holiday
+2030-12-25,Christmas
+2030-12-26,Boxing Day

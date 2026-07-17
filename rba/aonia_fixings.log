@@ -1,0 +1,3 @@
+[aonia] WARN blpapi pull failed (blpapi returned no history for RBACOR Index); serving what we have
+[aonia] existing: 2665 (last 2026-07-15)
+[aonia] wrote C:\Users\cxiao\Documents\Pyth\Vol Pricer\..\Data Feeds\rba\aonia_fixings.json: 2665 fixings, asof 2026-07-15

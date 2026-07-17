@@ -1,0 +1,57 @@
+# Citi Velocity Rates pipeline -- CURATED config (built from real discovery, 2026-06-22).
+# Universe = OIS PAR + FWD (RFR indices) + VOL ATM NORMAL. ~9,668 tags.
+# Selection is RULE-BASED: the pipeline filters the discovery inventory by these rules,
+# so you trim/expand by editing lists here (no hardcoded tag strings).
+
+currencies: [EUR, USD, GBP, AUD, JPY, CAD]
+
+storage:
+  root: ./data                 # parquet source-of-truth root (partitioned)
+  duckdb: ./rates.duckdb        # views + materialized analytics
+  inventory: ./discovery/rates_tag_inventory.parquet  # tag universe to select from
+  selection: ./discovery/rates_selection_inventory.parquet  # EXACT curated pull list (used by backfill/daily)
+
+ingest:
+  mode: lookback_upsert
+  lookback_business_days: 7
+  backfill_start: "2016-01-01"  # floor; per-tag true start used if metadata available
+  frequency: DAILY
+
+# ---- product selection rules ----
+products:
+
+  swap_par:
+    dataset: RATES.OIS
+    product_field: PAR           # f3 == PAR ; f4 == tenor
+    indices: [USD_SOFR, EUR_EUROSTR, GBP_SONIA, CAD_CORRA, AUD_AONIA,
+              JPY_TONAR, JPY_TONAR_JSCC, JPY_TONAR_LCH]
+    tenors: []                   # [] = all available (1D..50Y). Trim here if desired.
+
+  forward_swap:
+    dataset: RATES.OIS
+    product_field: FWD           # f3 == FWD ; f4 == expiry ; f5 == tenor
+    # NB: JSCC/LCH clearing variants have NO forwards -> primary indices only
+    indices: [USD_SOFR, EUR_EUROSTR, GBP_SONIA, CAD_CORRA, AUD_AONIA, JPY_TONAR]
+    expiries: []                 # [] = all
+    tenors: []                   # [] = all
+
+  vol:
+    dataset: RATES.VOL
+    families: [ATM, ATM_RFR]     # f3 ; ATM_RFR = RFR-underlying, ATM = legacy
+    quote: NORMAL                # BPVol (normal). f4 == NORMAL ; measure ANNUAL
+    # NB: CAD has no swaption vol in this entitlement
+    currencies: [USD, EUR, GBP, JPY, AUD]
+    expiries: []                 # [] = all
+    tenors: []                   # [] = all
+
+# Phase-2 analytics conventions (we build these in DuckDB from PAR + FWD)
+analytics:
+  flies:
+    weighting: equal             # equal (-1/+2/-1) | pca | regression
+  swap_spread:
+    note: "deferred -- needs bond yields (RATES.SOV/TSY not entitled yet)"
+
+# Deferred (one-line re-enable later):
+#   - parallel IBOR curves: add dataset RATES.SWAP_LIBOR (ccy is bare, e.g. EUR)
+#   - legacy/secondary indices: USD_FEDFUND, EUR_EONIA
+#   - bonds: RATES.TSY / RATES.SOV once entitled

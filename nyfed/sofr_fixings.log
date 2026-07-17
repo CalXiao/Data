@@ -1,0 +1,4 @@
+[sofr-pull] 2025-06-11 -> 2026-07-16
+C:\Users\cxiao\Documents\Pyth\Vol Pricer\..\Data Feeds\nyfed\sofr_fixings_pull.py:121: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  "generated_at": dt.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+[sofr-pull] wrote 273 rows (272 rates, 273 index) asof 2026-07-16 -> C:\Users\cxiao\Documents\Pyth\Vol Pricer\..\Data Feeds\nyfed\sofr_fixings.json

@@ -1,0 +1,70 @@
+# Citi Velocity Rates pipeline -- configuration template
+# Fill the tenor/grid placeholders AFTER running discover_rates.py.
+# Everything here is config-driven so adding a currency or tenor is a one-line edit.
+
+currencies: [EUR, USD, GBP, AUD, JPY, CAD]   # expand freely
+
+storage:
+  root: ./data                 # parquet source-of-truth root
+  duckdb: ./rates.duckdb        # holds views + materialized analytics
+  partition_by: [product, currency, year]
+  compact_monthly: true         # merge small daily files once a month
+
+ingest:
+  mode: lookback_upsert         # locked decision
+  lookback_business_days: 7
+  full_reconcile: none          # none | weekly | monthly  (deeper restatement sweep)
+  upsert_key: [tag, date, field, moneyness_bp]
+  revision_history: false       # true = SCD-2 append (keep every revision)
+
+# Live RFR/OIS index per currency (confirm names in discovery).
+# AUD has no RFR swap market -> expected to fall back to BBSW only.
+rfr_index:
+  USD: SOFR
+  EUR: ESTR
+  GBP: SONIA
+  JPY: TONA
+  CAD: CORRA
+  AUD: BBSW   # IBOR-style; no separate RFR swap series expected
+
+products:
+
+  swap:
+    # Pull RFR/OIS as the live curve AND legacy IBOR as a parallel series.
+    datasets:
+      RFR:  RATES.OIS
+      IBOR: RATES.SWAP_LIBOR
+    tenors: []        # <-- FILL AFTER DISCOVERY, e.g. [1Y,2Y,3Y,5Y,7Y,10Y,15Y,20Y,30Y]
+
+  forward_swap:
+    dataset: RATES.FORWARD
+    grid:             # forward-start (expiry) x underlying tenor
+      expiries: []    # <-- FILL, e.g. [1Y,2Y,3Y,5Y]
+      tenors:   []    # <-- FILL, e.g. [1Y,2Y,5Y,10Y,30Y]
+    # common singletons you may also want explicitly:
+    extra: []         # e.g. ["5Y5Y", "1Y1Y", "2Y10Y"]
+
+  bond:
+    datasets:
+      USD: RATES.TSY        # treasury on-the-run
+      default: RATES.SOV    # sovereign for non-USD
+    benchmarks: []          # <-- FILL OTR set, e.g. [2Y,5Y,10Y,30Y]
+
+  vol:
+    dataset: RATES.VOL
+    vol_type: NORMAL        # BPVol / normal vol  (locked)
+    measure: ANNUAL
+    atm: true
+    risk_reversals_bp: [25, 50, 100]   # +/- bp moneyness offsets (confirm grammar)
+    grid:
+      expiries: []          # <-- FILL, e.g. [1M,3M,6M,1Y,2Y,5Y,10Y]
+      tenors:   []          # <-- FILL, e.g. [1Y,2Y,5Y,10Y,20Y,30Y]
+
+# Phase-2 analytics conventions (placeholders; settle before building analytics)
+analytics:
+  swap_spread:
+    vs: OTR               # OTR | CMT  (govie reference)
+  flies:
+    weighting: equal       # equal (-1/+2/-1) | pca | regression
+  forward_curve:
+    source: quoted         # quoted (RATES.FORWARD) | implied (bootstrap from spot)

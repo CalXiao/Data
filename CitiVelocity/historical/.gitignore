@@ -1,0 +1,11 @@
+# secrets -- never commit
+secrets.env
+.env
+# data outputs
+data/
+*.duckdb
+discovery/*.csv
+discovery/*.parquet
+__pycache__/
+*.pyc
+logs/
