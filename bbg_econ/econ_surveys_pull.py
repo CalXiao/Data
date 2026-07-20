@@ -26,6 +26,9 @@ Output (data contract consumed by Hobbes/econ_surprises/consensus.py):
   release date or the reference-period date VARIES by ticker — VERIFY one series on
   the terminal (GP/DES); the consumer maps it to the reference month.
 
+Also writes econ_surveys_daily.csv (unless --no-drift): DAILY median history over the
+trailing --drift-years, so the consumer can see how consensus DRIFTED into each release.
+
 TICKERS ARE BEST-EFFORT — verify each with `ECO <GO>` (pick the release -> its ticker)
 or `<TICKER> DES <GO>`. Flip status to "ok" once confirmed. A wrong ticker just skips
 that indicator with a warning; it won't sink the run.
@@ -38,6 +41,7 @@ import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DEFAULT_OUT = os.path.join(HERE, "econ_surveys.csv")
+DAILY_OUT = os.path.join(HERE, "econ_surveys_daily.csv")   # consensus DRIFT into releases
 LOG = os.path.join(HERE, "econ_surveys.log")
 
 # indicator name (matches Hobbes econ_surprises where sensible) -> ticker, status
@@ -96,8 +100,8 @@ def _start_session():
     return s, blpapi
 
 
-def _history(session, blpapi, ticker, fields, start, end):
-    """HistoricalDataRequest -> {date: {field: value}}."""
+def _history(session, blpapi, ticker, fields, start, end, periodicity="MONTHLY"):
+    """HistoricalDataRequest -> {date: {field: value}}. periodicity: MONTHLY | DAILY."""
     svc = session.getService("//blp/refdata")
     req = svc.createRequest("HistoricalDataRequest")
     req.append("securities", ticker)
@@ -105,7 +109,7 @@ def _history(session, blpapi, ticker, fields, start, end):
         req.append("fields", f)
     req.set("startDate", start.replace("-", ""))
     req.set("endDate", end.replace("-", ""))
-    req.set("periodicitySelection", "MONTHLY")
+    req.set("periodicitySelection", periodicity)
     session.sendRequest(req)
 
     rows: dict = {}
@@ -139,6 +143,10 @@ def main() -> int:
     ap.add_argument("--start", default="2000-01-01")
     ap.add_argument("--end", default=dt.date.today().isoformat())
     ap.add_argument("--out", default=DEFAULT_OUT)
+    ap.add_argument("--no-drift", action="store_true",
+                    help="skip the daily consensus-drift pull (econ_surveys_daily.csv)")
+    ap.add_argument("--drift-years", type=int, default=8,
+                    help="trailing years of DAILY median history for the drift file")
     args = ap.parse_args()
 
     if sys.platform == "win32":
@@ -173,6 +181,29 @@ def main() -> int:
         w.writeheader()
         w.writerows(all_rows)
     log(f"wrote {args.out}  ({len(all_rows)} rows; ok={ok}; skipped={bad})")
+
+    # --- consensus DRIFT: daily median history so we can see how the consensus moved
+    #     heading INTO each release (answers "did the median shift into the event"). ---
+    if not args.no_drift:
+        drift_start = (dt.date.today() - dt.timedelta(days=365 * args.drift_years)).isoformat()
+        drift_rows = []
+        for name, spec in INDICATORS.items():
+            try:
+                hist = _history(session, blpapi, spec["ticker"],
+                                [FIELD_ACTUAL, FIELD_MAP["median"]], drift_start, args.end,
+                                periodicity="DAILY")
+                for date, vals in sorted(hist.items()):
+                    drift_rows.append({"indicator": name, "ticker": spec["ticker"], "date": date,
+                                       "actual": vals.get(FIELD_ACTUAL),
+                                       "median": vals.get(FIELD_MAP["median"])})
+            except Exception as e:  # noqa: BLE001
+                log(f"drift {name:12s} skipped: {str(e)[:60]}")
+        with open(DAILY_OUT, "w", newline="", encoding="utf-8") as fh:
+            w = csv.DictWriter(fh, fieldnames=["indicator", "ticker", "date", "actual", "median"])
+            w.writeheader()
+            w.writerows(drift_rows)
+        log(f"wrote {DAILY_OUT}  ({len(drift_rows)} daily rows, {args.drift_years}y)")
+
     return 0 if ok else 1
 
 

@@ -39,7 +39,10 @@ $pulls = @(
     "ecb\estr_fixings_pull.py",
     "rba\aonia_fixings_pull.py"
 )
-if (-not $SkipBBG) { $pulls += "bbg_econ\econ_surveys_pull.py" }
+if (-not $SkipBBG) {
+    $pulls += "bbg_econ\econ_surveys_pull.py"        # actual + consensus (+ daily drift)
+    $pulls += "bbg_econ\fedfunds_futures_pull.py"    # fed funds futures strip (implied path)
+}
 
 Log "=== refresh start (python=$Python) ==="
 git -C $Repo pull --ff-only 2>&1 | ForEach-Object { Log "git pull: $_" }
